@@ -32,8 +32,8 @@ website:
     #  href: cookbook-navbar-page.qmd
     #- text: "News & Events"
     #  href: news.qmd  
-    - icon: github
-      href: https://github.com/MaitnerLab
+    #- icon: github
+    #  href: https://github.com/MaitnerLab
     #- icon: mastodon
     #  href: https://fosstodon.org/@openscapes
 

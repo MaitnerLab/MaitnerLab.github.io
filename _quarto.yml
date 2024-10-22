@@ -16,7 +16,7 @@ website:
     right:
      - text: "Home"
        href: index.html
-    - text: "About"                      
+    #- text: "About"                      
     #  menu:
     #    - text: "About"
     #      href: about.qmd

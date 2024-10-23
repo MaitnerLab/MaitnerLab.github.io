@@ -1,5 +1,5 @@
 # Overview
-The focus of my lab is on biodiversity.
+The focus of the lab is (primarily) on topics related to biodiversity, including understanding the drivers of biodiversity patterns and how biodiversity may be impacted by global changes, and working on making these findings relevant for decision makers.  Work in the lab is open to any group of organisms, but tends to focus on plants (as these account for most of the biomass on Earth and their traits are primary drivers of terrestrial ecosystem functioning).
 
 # Research Projects
 - Global Change and Conservation

@@ -1,27 +1,12 @@
 # Overview
-The focus of the lab is (primarily) on topics related to biodiversity, including quantifying and mapping biodiversity, understanding the drivers of biodiversity patterns and how biodiversity may be impacted by global changes, and working on making these findings relevant for decision makers. Work in the lab is open to any group of organisms, but tends to focus on plants (as they account for most of the biomass on Earth and their traits are primary drivers of terrestrial ecosystem functioning).  We practice Open Science and take a collaborative and cooperative approach to research.
+The focus of the lab is (primarily) on topics related to biodiversity, including quantifying and mapping biodiversity, understanding the drivers of biodiversity patterns and how biodiversity may be impacted by global changes, and working on making these findings relevant for decision makers. Work in the lab is open to any group of organisms, but tends to focus on plants (as they account for most of the biomass on Earth and their traits are primary drivers of terrestrial ecosystem functioning).  We practice Open Science and take a highly collaborative and cooperative approach to research.
 
 # Research Projects
-### Global Change and Conservation
 
-- Introduction papers (bird papers, North American plants)
+### Biodiversity patterns
+We study biodiversity patterns using both top-down and bottom-up approaches.  With the top-down approach, we use data science to aggregate and clean existing data to ask questions at large spatial or taxonomic scales.  For example, we've worked with our collaborators to assess knowledge gaps in [plant data](http://dx.doi.org/10.1111/nph.18999) and shortfalls in [plant conservation assessments](https://doi.org/10.1002/ppp3.10369), and have shown how database integration can lead to massive [improvements in data availability](http://dx.doi.org/10.1111/geb.13497). With the bottom-up approach, we focus on using field observations to understand biodiversity patterns and their correlated.  For example, with our collaborators, we've worked on understanding environmental correlates of plant traits in [China](https://doi.org/10.3389/fpls.2018.01548), [Norway](https://doi.org/10.1002/ecm.1555), [Peru](http://dx.doi.org/10.1111/geb.12645), and other locations. We also work on improving how trait-based ecology is done, including [better incorporating uncertainty](https://doi.org/10.1111/2041-210X.14160) and advocating for [best-practices in trait-based ecology](https://doi.org/10.1111/2041-210X.14033).
 
-Knowledge gaps
-- Trait shortfalls (http://dx.doi.org/10.1111/nph.18999)
-- Shortfalls in assessments of endemics
-- Feng database paper
-
-Trait-based ecology
-- Intraspecific variability (http://dx.doi.org/10.1002/ecm.1555)
-- Functional Rarity
-
-Trait change along gradients 
-- Peru (http://dx.doi.org/10.1111/geb.12645)
-- PFTC papers?
-
-Trait based methods
-- Bootstrapping paper
-- 10 simple rules
+### Conservation
 
 Risks to biodiversity- fires
 - Australian fires
@@ -30,9 +15,8 @@ Risks to biodiversity- fires
 Risks to biodiversity - climate change
 - Climate change - Sparc
 - Cactus and climate change risk (http://dx.doi.org/10.1038/s41477-022-01130-0)
+- Introduction papers (bird papers, North American plants) - use global change as a test of ecological theory
 
-
-### Macroecology
 
 ### Open Science
 Open Science work in the lab includes both work focused on the development and dissemination of Open Science products and work focused on the impacts of Open Science. For example, we participate in the development and maintainance of multiple R packages, including [BIEN](https://doi.org/10.1111/2041-210X.12861), [TNRS](https://cran.r-project.org/package=TNRS), [GNRS](https://doi.org/10.1371/journal.pone.0268162), and [Wallace 2](https://doi.org/10.1111/ecog.06547). In terms of work focused on the impact of Open Science, we've published on the importance of [Open Science in trait-based ecology](https://www.nature.com/articles/s41559-020-1109-6), the need to [incentivize software developers](https://www.nature.com/articles/s41559-023-02008-w), and have shown how [Open Science can improve citation rates](https://doi.org/10.1002/ece3.70030).

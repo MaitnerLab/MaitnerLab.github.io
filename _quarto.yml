@@ -15,6 +15,8 @@ website:
     right:
      - text: "Home"
        href: index.html
+     - icon: github
+       href: https://github.com/MaitnerLab
     #- text: "About"                      
     #  menu:
     #    - text: "About"

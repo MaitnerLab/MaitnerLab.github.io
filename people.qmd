@@ -3,8 +3,6 @@ title: "Lab Members"
 from: markdown+emoji
 ---
 
-# Lab Members
-
 ## Brian Maitner
 
 *Academic stuff*

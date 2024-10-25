@@ -1,3 +1,8 @@
+---
+title: "Lab Members"
+from: markdown+emoji
+---
+
 # Lab Members
 
 ## Brian Maitner
@@ -6,5 +11,5 @@
 I'm an Assistant Professor of Global Change in the Integrative Biology Department at the University of South Florida - St. Petersburg. I'm a macroecologist and community ecologist who works across taxa (primarily focusing on plants and terrestrial vertebrates) using both ecological and evolutionary approaches with strong informatics and computational components. I'm a big believer in working collaboratively, which benefits from the integration of diverse perspectives and multiple skill sets. 
 
 ## Non-academic stuff
-My heritage is :poland:
+My heritage is :poland: :us:
 

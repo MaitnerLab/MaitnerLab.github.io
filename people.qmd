@@ -45,7 +45,7 @@ I'm obsessed with cacti, objectively the best plant family. I also operate a con
 
 ## Mac Grosscup
 
-![](assets/images/Mac_Grosscup.jpg){width=400 fig-align="center"}
+![](assets/images/Mac_Grosscup.jpeg){width=400 fig-align="center"}
 
 *Academic stuff*
 

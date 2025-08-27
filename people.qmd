@@ -11,7 +11,7 @@ from: markdown+emoji
 
 I'm an Assistant Professor of Global Change in the Integrative Biology Department at the University of South Florida - St. Petersburg. I'm a macroecologist and community ecologist who works across taxa (primarily focusing on plants and terrestrial vertebrates) using both ecological and evolutionary approaches with strong informatics and computational components. I'm a big believer in working collaboratively, which benefits from the integration of diverse perspectives and multiple skill sets. 
 
-- Email: BMaitner <at> usf.edu
+- Email: [bmaitner@usf.edu](mailto:bmaitner@usf.edu)
 - [Bluesky](https://bsky.app/profile/maitner.bsky.social) @maitner.bsky.social
 - [Twitter](https://x.com/BrianMaitner) @BrianMaitner
 - [ResearchGate](https://www.researchgate.net/profile/Brian-Maitner)
@@ -42,3 +42,15 @@ I'm a Postdoctoral Research Scholar in the Department of Integrative Biology at 
 *Non-academic stuff*
 
 I'm obsessed with cacti, objectively the best plant family. I also operate a conservation nursery, [Prickly Prospects](https://pricklyprospects.com/).
+
+## Mac Grosscup
+
+*Academic stuff*
+
+I am a Master’s Student in the Conservation Biology program at the University of South Florida – St. Petersburg. Plant ecology is one of my primary scientific interests, specifically in the Neotropics. I am curious about how plants broadly respond to global change, as well as how rare or underrepresented taxa reappear after disturbance events. I am particularly interested in examining these phenomena through the lens of trait evolution.
+
+- Email: [jgrosscup@usf.edu](mailto:jgrosscup@usf.edu)
+
+*Outside of the Lab*
+
+I have an extensive collection of tropical epiphytes from families like Araceae, Orchidaceae, and Apocynaceae. I also love cooking recipes from many different global cuisines! 

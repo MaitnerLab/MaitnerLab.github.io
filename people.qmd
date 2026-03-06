@@ -56,3 +56,17 @@ I am a Master’s Student in the Conservation Biology program at the University 
 *Outside of the Lab*
 
 I have an extensive collection of tropical epiphytes from families like Araceae, Orchidaceae, and Apocynaceae. I also love cooking recipes from many different global cuisines! 
+
+## Alyssa Diodato
+
+![](assets/images/Alyssa_Diodato.jpeg){width=400 fig-align="center"}
+
+*Academic stuff*
+
+I’m a Master’s Student in Conservation Biology at the University of South Florida- St. Petersburg. I have a strong background in horticulture for the purpose of habitat restoration, and an interest in plant ecology insights that can be applied to practice. I am interested in how climate change or land use patterns may affect suitable habitat ranges as well as looking at specific responses in plants themselves, such as germination time. I hope my work can someday provide practitioners with better insights to create more resilient ecosystems. 
+
+- Email: [adiodato@usf.edu](mailto:adiodato@usf.edu)
+
+*Outside of the Lab*
+
+I love playing DND with friends, doing anything creative with my hands, and watching animated shows and movies. The temperate forests of the Northeast United States and the landscapes of Ireland both have a special place in my heart. 

@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://maitnerlab.github.io/people.html</loc>
-    <lastmod>2026-10-19T04:32:39.007Z</lastmod>
-  </url>
-  <url>
-    <loc>https://maitnerlab.github.io/index.html</loc>
-    <lastmod>2026-10-19T04:32:39.003Z</lastmod>
+    <lastmod>2026-10-19T04:45:12.104Z</lastmod>
   </url>
   <url>
     <loc>https://maitnerlab.github.io/students.html</loc>
-    <lastmod>2026-10-19T04:32:39.007Z</lastmod>
+    <lastmod>2026-10-19T04:45:12.105Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maitnerlab.github.io/index.html</loc>
+    <lastmod>2026-10-19T04:45:12.101Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maitnerlab.github.io/publications.html</loc>
+    <lastmod>2026-10-19T04:45:12.104Z</lastmod>
   </url>
 </urlset>

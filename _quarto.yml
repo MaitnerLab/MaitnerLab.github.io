@@ -3,7 +3,15 @@ project:
 
 website:
   title: "Maitner Lab"
-  site-url: https://MaitnerLab.github.io/
+  description: "The Maitner Lab at the University of South Florida – St. Petersburg studies biodiversity, macroecology, plant traits, conservation, and Open Science in a changing world."
+  site-url: https://maitnerlab.github.io/
+  image: assets/images/vlcsnap-2023-05-03-08h34m51s543.png
+  open-graph:
+    locale: en_US
+    site-name: "Maitner Lab"
+  twitter-card:
+    creator: "@BrianMaitner"
+    card-style: summary_large_image
   #favicon: images/openscapes_hex.png  
   
   page-footer: 
@@ -47,3 +55,5 @@ format:
     toc: true
     toc-title: Contents
     toc-location: left
+    lang: en
+    canonical-url: true

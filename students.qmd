@@ -1,0 +1,80 @@
+---
+title: "Prospective Students"
+subtitle: "Graduate and undergraduate research in ecology at USF St. Petersburg"
+description: "Join the Maitner Lab at the University of South Florida – St. Petersburg. We're recruiting graduate students in conservation biology and ecology interested in biodiversity, plant ecology, data science, and global change."
+---
+
+## We're recruiting graduate students
+
+The Maitner Lab is looking for graduate students to join us in the [Department of Integrative Biology](https://www.usf.edu/arts-sciences/departments/ib/) at the **University of South Florida – St. Petersburg**. If you want to study ecology in Florida and you're excited about biodiversity, plants, conservation, or using data to answer big questions, we'd love to hear from you.
+
+We're especially interested in students drawn to either (or both) of these approaches:
+
+1. **Data science and coding** to address large-scale questions in macroecology and biodiversity, such as aggregating and cleaning large datasets, mapping biodiversity, and modeling species distributions.
+2. **Field-based methods** to address ecological or global-change questions, such as measuring plant traits and studying how communities respond to disturbance and climate change.
+
+You don't need to arrive with every skill. We care most that you are strongly self-motivated, curious, and full of your own ideas.
+
+## What we work on
+
+Research in the lab centers on [biodiversity patterns, conservation, and Open Science](index.qmd#research-areas). Work is open to any group of organisms, but it tends to focus on plants. Current and recent topics include:
+
+- Plant functional traits and how they relate to the environment
+- Climate change impacts on biodiversity, including threatened cacti and succulents
+- Species range shifts and conservation planning
+- Biodiversity knowledge gaps and large-scale data integration (e.g., [BIEN](https://doi.org/10.1111/2041-210X.12861))
+- Open Science and research software in ecology
+
+See [Lab Members](people.qmd) to learn what current students and postdocs are working on.
+
+## Graduate programs
+
+So far, graduate students in the lab have been in USF's [M.S. in Conservation Biology](https://www.usf.edu/arts-sciences/departments/ib/graduate/ms-degree/conservation-biology-ms.aspx), which is offered only at the St. Petersburg campus. Key features:
+
+- **Thesis-based.** Students design and carry out their own research and are encouraged to publish it.
+- **Two to three years** is the typical time to finish.
+- **Local partners** include the Florida Fish and Wildlife Conservation Commission, the U.S. Geological Survey, and the USF College of Marine Science, all near campus.
+- **Career paths** for graduates include state and federal agencies, conservation organizations, environmental consulting, zoos, and Ph.D. programs.
+
+Ph.D. students are also possible through USF's doctoral programs on the Tampa campus, such as the [Ph.D. in Integrative Biology](https://www.usf.edu/arts-sciences/departments/ib/graduate/phd-degree.aspx) (Ecology and Evolution concentration).
+
+## Funding
+
+Most graduate students in the lab are funded as **Graduate Teaching Assistants**. Current minimum stipends (as of fall 2026) for a 9-month, 0.50 FTE appointment:
+
+| Degree | Minimum stipend |
+|--------|-----------------|
+| Ph.D.  | $22,056 |
+| M.S.   | $15,650 |
+
+Graduate Assistants also receive:
+
+- **Tuition waivers.** Students remain responsible for some university fees.
+- **Subsidized health insurance.** For 2026–27, USF pays $3,483 of the $4,267 annual premium for domestic students and the full premium for international students ([USF HR](https://www.usf.edu/hr/benefits/insurance/graduate-assistants.aspx)).
+
+These minimum stipends, tuition waiver eligibility, and health insurance subsidies are guaranteed by the collective bargaining agreement negotiated by USF's graduate assistant union, [Graduate Assistants United (GAU)](https://www.usfgau.org/our-contract).
+
+Please go in with your eyes open: USF stipends are low compared with the cost of living in the Tampa Bay area, and compared with other universities in the Association of American Universities (AAU). The M.S. stipend falls below the federal poverty line ([Open Campus, 2025](https://www.opencampus.org/2025/11/07/usf-graduate-assistants-still-face-gap-in-salary-negotiations/)). The [GAU](https://www.usfgau.org/) continues to bargain for higher pay.
+
+Because of this, we strongly encourage students to apply for **external fellowships** (such as the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/)), and Brian is happy to help with applications.
+
+## How to apply
+
+1. **Email Brian first** at [bmaitner@usf.edu](mailto:bmaitner@usf.edu). Please include:
+   - a short description of your research interests and why the lab is a good fit
+   - your CV
+   - any experience with coding, data analysis, or fieldwork (none is required, but tell us what you've done)
+2. **Talk with us.** If there's a good fit, we'll set up a video call to talk about research ideas, the program, and the lab.
+3. **Apply to USF** through the [USF graduate application](https://www.usf.edu/application). Check the [Integrative Biology graduate program page](https://www.usf.edu/arts-sciences/departments/ib/degree-programs/graduate-program/index.aspx) for current requirements and deadlines.
+
+## Life in St. Petersburg, Florida
+
+USF St. Petersburg sits on the waterfront in downtown St. Petersburg, on Tampa Bay along Florida's Gulf Coast. The campus is a short drive from USF's main campus in Tampa. The campus is small, and the lab is collaborative, so students get plenty of one-on-one mentoring alongside a much larger university's resources.
+
+## Undergraduate research
+
+Undergraduates at USF interested in getting research experience in ecology, data science, or plant biology are welcome to email Brian at [bmaitner@usf.edu](mailto:bmaitner@usf.edu) with a short note about their interests.
+
+## Our approach
+
+We practice Open Science and take a highly collaborative, cooperative approach to research. Students in the lab learn reproducible workflows (especially R and version control) and work with collaborators across institutions and countries. They're encouraged to develop their own questions, not just work on someone else's.

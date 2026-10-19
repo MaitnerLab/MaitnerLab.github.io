@@ -25,6 +25,8 @@ website:
        href: index.html
      - text: "People"
        href: people.qmd
+     - text: "Publications"
+       href: publications.qmd
      - text: "Prospective Students"
        href: students.qmd
      - icon: github

@@ -25,7 +25,7 @@ Research in the lab centers on [biodiversity patterns, conservation, and Open Sc
 - Biodiversity knowledge gaps and large-scale data integration (e.g., [BIEN](https://doi.org/10.1111/2041-210X.12861))
 - Open Science and research software in ecology
 
-See [Lab Members](people.qmd) to learn what current students and postdocs are working on.
+See [Publications](publications.qmd) for our papers, and [Lab Members](people.qmd) to learn what current students and postdocs are working on.
 
 ## Graduate programs
 

@@ -98,7 +98,23 @@
    "American Journal of Botany"
   ],
   "issue": "3",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     3
+    ]
+   ]
+  },
   "page": "614-622",
+  "published-print": {
+   "date-parts": [
+    [
+     2018,
+     3
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "A roadmap for global synthesis of the plant tree of life"
@@ -160,6 +176,23 @@
    "Ecology and Evolution"
   ],
   "issue": "5",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     4,
+     29
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2024,
+     5
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "ZooTraits: An R shiny app for exploring animal trait data for ecological and evolutionary research"
@@ -205,7 +238,24 @@
    "Ecology and Evolution"
   ],
   "issue": "21",
+  "issued": {
+   "date-parts": [
+    [
+     2015,
+     10,
+     8
+    ]
+   ]
+  },
   "page": "4819-4828",
+  "published-print": {
+   "date-parts": [
+    [
+     2015,
+     11
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "A comparative approach to testing hypotheses for the evolution of sex\u2010biased dispersal in bean beetles"
@@ -279,6 +329,22 @@
    "Ecology and Evolution"
   ],
   "issue": "8",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     8
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2024,
+     8
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Code sharing in ecology and evolution increases citation rates but remains uncommon"
@@ -368,7 +434,24 @@
    "Ecology and Evolution"
   ],
   "issue": "8",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     11,
+     20
+    ]
+   ]
+  },
   "page": "3577-3587",
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     4
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Next\u2010generation field courses: Integrating Open Science and online learning"
@@ -442,6 +525,23 @@
    "Ecological Monographs"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     12,
+     9
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     2
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Intraspecific trait variability is a key feature underlying high Arctic plant community resistance to climate warming"
@@ -475,6 +575,23 @@
    "Ecography"
   ],
   "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     1,
+     21
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2026,
+     2
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Flexible methods for species distribution modeling with small samples"
@@ -556,7 +673,24 @@
    "PLANTS, PEOPLE, PLANET"
   ],
   "issue": "6",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     4,
+     20
+    ]
+   ]
+  },
   "page": "885-898",
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     11
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Global shortfalls in threat assessments for endemic flora by country"
@@ -605,7 +739,23 @@
   "container-title": [
    "Global Environmental Change Advances"
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     9
+    ]
+   ]
+  },
   "page": "100017",
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     9
+    ]
+   ]
+  },
   "publisher": "Elsevier BV",
   "title": [
    "Projected climate zone shifts could undermine the effectiveness of global protected areas for biodiversity conservation by mid-to-late century"
@@ -646,7 +796,23 @@
   "container-title": [
    "International Journal of Applied Earth Observation and Geoinformation"
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     11
+    ]
+   ]
+  },
   "page": "103060",
+  "published-print": {
+   "date-parts": [
+    [
+     2022,
+     11
+    ]
+   ]
+  },
   "publisher": "Elsevier BV",
   "title": [
    "Forecasting vegetation dynamics in an open ecosystem by integrating deep learning and environmental variables"
@@ -712,6 +878,15 @@
    "Nature Communications"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     10,
+     8
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Global distribution and conservation status of ecologically rare mammal and bird species"
@@ -773,6 +948,15 @@
    "Nature Communications"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     10,
+     31
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Climate change and land use threaten global hotspots of phylogenetic endemism for trees"
@@ -826,6 +1010,15 @@
    "Nature Communications"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     1,
+     2
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "More than 17,000 tree species are at risk from rapid global change"
@@ -1806,6 +1999,15 @@
    "Nature Communications"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     5,
+     31
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Positive feedbacks and alternative stable states in forest leaf types"
@@ -2699,6 +2901,15 @@
    "Nature Communications"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     5,
+     22
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Effect of climate on traits of dominant and rare tree species in the world\u2019s forests"
@@ -2740,6 +2951,15 @@
    "Nature Plants"
   ],
   "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     4,
+     14
+    ]
+   ]
+  },
   "page": "366-372",
   "publisher": "Springer Science and Business Media LLC",
   "title": [
@@ -3682,12 +3902,204 @@
    "Nature Plants"
   ],
   "issue": "11",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     10,
+     23
+    ]
+   ]
+  },
   "page": "1795-1809",
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "The global biogeography of tree leaf form and habit"
   ],
   "volume": "9"
+ },
+ "10.1038/s41477-025-02207-2": {
+  "author": [
+   {
+    "family": "Guo",
+    "given": "Wen-Yong"
+   },
+   {
+    "family": "Serra-Diaz",
+    "given": "Josep M."
+   },
+   {
+    "family": "Guo",
+    "given": "Kun"
+   },
+   {
+    "family": "Boonman",
+    "given": "Coline C. F."
+   },
+   {
+    "family": "Schrodt",
+    "given": "Franziska"
+   },
+   {
+    "family": "Maitner",
+    "given": "Brian S."
+   },
+   {
+    "family": "Merow",
+    "given": "Cory"
+   },
+   {
+    "family": "Violle",
+    "given": "Cyrille"
+   },
+   {
+    "family": "Anand",
+    "given": "Madhur"
+   },
+   {
+    "family": "Bruun",
+    "given": "Hans Henrik K."
+   },
+   {
+    "family": "Byun",
+    "given": "Chaeho"
+   },
+   {
+    "family": "Catford",
+    "given": "Jane A."
+   },
+   {
+    "family": "Cerabolini",
+    "given": "Bruno E. L."
+   },
+   {
+    "family": "Chac\u00f3n-Madrigal",
+    "given": "Eduardo"
+   },
+   {
+    "family": "Ciccarelli",
+    "given": "Daniela"
+   },
+   {
+    "family": "Dang-Le",
+    "given": "Anh Tuan"
+   },
+   {
+    "family": "Dias",
+    "given": "Arildo S."
+   },
+   {
+    "family": "Giroldo",
+    "given": "Aelton B."
+   },
+   {
+    "family": "Guti\u00e9rrez",
+    "given": "Alvaro G."
+   },
+   {
+    "family": "Jansen",
+    "given": "Steven"
+   },
+   {
+    "family": "Kattge",
+    "given": "Jens"
+   },
+   {
+    "family": "Kindt",
+    "given": "Roeland"
+   },
+   {
+    "family": "Klein",
+    "given": "Tamir"
+   },
+   {
+    "family": "Kramer",
+    "given": "Koen"
+   },
+   {
+    "family": "Lusk",
+    "given": "Christopher H."
+   },
+   {
+    "family": "Martin",
+    "given": "Adam R."
+   },
+   {
+    "family": "Michaletz",
+    "given": "Sean T."
+   },
+   {
+    "family": "Minden",
+    "given": "Vanessa"
+   },
+   {
+    "family": "Mori",
+    "given": "Akira S."
+   },
+   {
+    "family": "Niinemets",
+    "given": "\u00dclo"
+   },
+   {
+    "family": "Onoda",
+    "given": "Yusuke"
+   },
+   {
+    "family": "Pe\u00f1uelas",
+    "given": "Josep"
+   },
+   {
+    "family": "Pisek",
+    "given": "Jan"
+   },
+   {
+    "family": "Robroek",
+    "given": "Bjorn J. M."
+   },
+   {
+    "family": "Schamp",
+    "given": "Brandon"
+   },
+   {
+    "family": "Soudzilovskaia",
+    "given": "Nadejda A."
+   },
+   {
+    "family": "Thiffault",
+    "given": "Nelson"
+   },
+   {
+    "family": "van der Plas",
+    "given": "Fons"
+   },
+   {
+    "family": "Enquist",
+    "given": "Brian J."
+   },
+   {
+    "family": "Svenning",
+    "given": "Jens-Christian"
+   }
+  ],
+  "container-title": [
+   "Nature Plants"
+  ],
+  "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     1,
+     28
+    ]
+   ]
+  },
+  "page": "308-318",
+  "publisher": "Springer Science and Business Media LLC",
+  "title": [
+   "Global functional shifts in trees driven by alien naturalization and native extinction"
+  ],
+  "volume": "12"
  },
  "10.1038/s41558-026-02642-9": {
   "author": [
@@ -3740,7 +4152,24 @@
    "Nature Climate Change"
   ],
   "issue": "7",
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     6,
+     8
+    ]
+   ]
+  },
   "page": "828-835",
+  "published-print": {
+   "date-parts": [
+    [
+     2026,
+     7
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "A global early warning system for predicting exposure of biodiversity to extreme heat"
@@ -3982,6 +4411,15 @@
    "Nature Ecology &amp; Evolution"
   ],
   "issue": "3",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     2,
+     17
+    ]
+   ]
+  },
   "page": "294-303",
   "publisher": "Springer Science and Business Media LLC",
   "title": [
@@ -4044,6 +4482,15 @@
    "Nature Ecology &amp; Evolution"
   ],
   "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     2,
+     25
+    ]
+   ]
+  },
   "page": "458-467",
   "publisher": "Springer Science and Business Media LLC",
   "title": [
@@ -4270,6 +4717,15 @@
    "Nature Ecology &amp; Evolution"
   ],
   "issue": "11",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     8,
+     23
+    ]
+   ]
+  },
   "page": "1499-1509",
   "publisher": "Springer Science and Business Media LLC",
   "title": [
@@ -5280,6 +5736,15 @@
    "Nature Ecology &amp; Evolution"
   ],
   "issue": "10",
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     8,
+     8
+    ]
+   ]
+  },
   "page": "1423-1437",
   "publisher": "Springer Science and Business Media LLC",
   "title": [
@@ -5350,6 +5815,15 @@
    "Nature Ecology &amp; Evolution"
   ],
   "issue": "5",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     2,
+     27
+    ]
+   ]
+  },
   "page": "626-627",
   "publisher": "Springer Science and Business Media LLC",
   "title": [
@@ -6308,6 +6782,15 @@
    "Nature Ecology &amp; Evolution"
   ],
   "issue": "12",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     15
+    ]
+   ]
+  },
   "page": "2195-2212",
   "publisher": "Springer Science and Business Media LLC",
   "title": [
@@ -6385,7 +6868,23 @@
    "Nature"
   ],
   "issue": "7756",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     5
+    ]
+   ]
+  },
   "page": "404-408",
+  "published-print": {
+   "date-parts": [
+    [
+     2019,
+     5
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Climatic controls of decomposition drive the global biogeography of forest-tree symbioses"
@@ -6491,7 +6990,25 @@
    "Nature"
   ],
   "issue": "7877",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     9,
+     1
+    ]
+   ]
+  },
   "page": "516-521",
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     9,
+     23
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "How deregulation, drought and increasing fire impact Amazonian biodiversity"
@@ -7409,7 +7926,25 @@
    "Nature"
   ],
   "issue": "7980",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     8,
+     23
+    ]
+   ]
+  },
   "page": "773-781",
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     9,
+     28
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Native diversity buffers against severity of non-native tree invasions"
@@ -8351,7 +8886,25 @@
    "Nature"
   ],
   "issue": "7990",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     11,
+     13
+    ]
+   ]
+  },
   "page": "92-101",
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     12,
+     7
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Integrated global assessment of the natural forest carbon potential"
@@ -8489,6 +9042,15 @@
    "Scientific Data"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     6,
+     19
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Plant traits and vegetation data from climate warming experiments along an 1100\u2009m elevation gradient in Gongga Mountains, China"
@@ -8642,6 +9204,15 @@
    "Scientific Data"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     9,
+     4
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Plant traits and associated data from a warming experiment, a seabird colony, and along elevation in Svalbard"
@@ -8903,6 +9474,15 @@
    "Scientific Data"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     2,
+     21
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Plant trait and vegetation data along a 1314\u2009m elevation gradient with fire history in Puna grasslands, Per\u00fa"
@@ -8956,6 +9536,15 @@
    "Scientific Data"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     2,
+     19
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Global Future Drought Layers Based on Downscaled CMIP6 Models and Multiple Socioeconomic Pathways"
@@ -9149,6 +9738,15 @@
    "Scientific Data"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     8,
+     25
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Plant traits and associated ecological data from global change experiments and climate gradients in Norway"
@@ -9382,6 +9980,15 @@
    "Scientific Data"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     11,
+     12
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Plant traits and associated ecological data from Afromontane grasslands of Maloti-Drakensberg, South Africa"
@@ -9415,7 +10022,25 @@
    "Proceedings of the National Academy of Sciences"
   ],
   "issue": "20",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     5,
+     4
+    ]
+   ]
+  },
   "page": "10904-10910",
+  "published-print": {
+   "date-parts": [
+    [
+     2020,
+     5,
+     19
+    ]
+   ]
+  },
   "publisher": "National Academy of Sciences",
   "title": [
    "Darwin\u2019s naturalization conundrum can be explained by spatial scale"
@@ -9657,6 +10282,24 @@
    "Proceedings of the National Academy of Sciences"
   ],
   "issue": "25",
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     6,
+     16
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2022,
+     6,
+     21
+    ]
+   ]
+  },
   "publisher": "National Academy of Sciences",
   "title": [
    "High exposure of global tree diversity to human pressure"
@@ -10262,6 +10905,24 @@
    "Proceedings of the National Academy of Sciences"
   ],
   "issue": "6",
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     1,
+     31
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2022,
+     2,
+     8
+    ]
+   ]
+  },
   "publisher": "National Academy of Sciences",
   "title": [
    "The number of tree species on Earth"
@@ -10307,6 +10968,23 @@
    "Proceedings of the National Academy of Sciences"
   ],
   "issue": "26",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     6,
+     23
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     7
+    ]
+   ]
+  },
   "publisher": "National Academy of Sciences",
   "title": [
    "High tree diversity exposed to unprecedented macroclimatic conditions even under minimal anthropogenic climate change"
@@ -10344,6 +11022,24 @@
    "Proceedings of the National Academy of Sciences"
   ],
   "issue": "35",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     8,
+     25
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     9,
+     2
+    ]
+   ]
+  },
   "publisher": "National Academy of Sciences",
   "title": [
    "Hottest year in recorded history compounds global biodiversity risks"
@@ -10413,6 +11109,24 @@
    "Proceedings of the National Academy of Sciences"
   ],
   "issue": "46",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     11,
+     11
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     11,
+     18
+    ]
+   ]
+  },
   "publisher": "National Academy of Sciences",
   "title": [
    "General laws of biodiversity: Climatic niches predict plant range size and ecological dominance globally"
@@ -10506,7 +11220,25 @@
    "Environmental Research Letters"
   ],
   "issue": "5",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     4,
+     21
+    ]
+   ]
+  },
   "page": "055006",
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     5,
+     1
+    ]
+   ]
+  },
   "publisher": "IOP Publishing",
   "title": [
    "Multiscale mapping of plant functional groups and plant traits in the High Arctic using field spectroscopy, UAV imagery and Sentinel-2A data"
@@ -10540,7 +11272,25 @@
    "BioScience"
   ],
   "issue": "10",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     8,
+     23
+    ]
+   ]
+  },
   "page": "1001-1003",
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     10,
+     4
+    ]
+   ]
+  },
   "publisher": "Oxford University Press (OUP)",
   "title": [
    "How to Publish at Pandemic Speed"
@@ -10614,7 +11364,25 @@
    "BioScience"
   ],
   "issue": "11",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     7,
+     30
+    ]
+   ]
+  },
   "page": "913-925",
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     11,
+     26
+    ]
+   ]
+  },
   "publisher": "Oxford University Press (OUP)",
   "title": [
    "The next stage of biodiversity informatics: community-driven synthesis and integration of biodiversity databases"
@@ -10833,6 +11601,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     16
+    ]
+   ]
+  },
   "publisher": "openRxiv",
   "title": [
    "Areas of global importance for terrestrial biodiversity, carbon, and water"
@@ -11074,6 +11851,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     23
+    ]
+   ]
+  },
   "publisher": "openRxiv",
   "title": [
    "Half of the world\u2019s tree biodiversity is unprotected and is increasingly threatened by human activities"
@@ -11319,6 +12105,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     6,
+     3
+    ]
+   ]
+  },
   "publisher": "openRxiv",
   "title": [
    "Paleoclimate and current climate collectively shape the phylogenetic and functional diversity of trees worldwide"
@@ -11560,6 +12355,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     11,
+     17
+    ]
+   ]
+  },
   "publisher": "openRxiv",
   "title": [
    "Quaternary climate change explains global patterns of tree beta-diversity"
@@ -11585,6 +12389,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     5,
+     17
+    ]
+   ]
+  },
   "publisher": "openRxiv",
   "title": [
    "Source range phylogenetic community structure can predict the outcome of avian introductions"
@@ -11634,6 +12447,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     4,
+     25
+    ]
+   ]
+  },
   "publisher": "openRxiv",
   "title": [
    "Geographic Name Resolution Service: A tool for the standardization and indexing of world political division names, with applications to species distribution modeling"
@@ -11667,6 +12489,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     9,
+     27
+    ]
+   ]
+  },
   "publisher": "openRxiv",
   "title": [
    "Socioeconomics and biogeography jointly drive geographic biases in our knowledge of plant traits: a global assessment of the Raunki\u00e6rian shortfall in plants"
@@ -11696,6 +12527,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     4,
+     8
+    ]
+   ]
+  },
   "publisher": "openRxiv",
   "title": [
    "Flexible Methods for Species Distribution Modeling with Small Samples"
@@ -11793,6 +12633,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     5,
+     26
+    ]
+   ]
+  },
   "publisher": "openRxiv",
   "title": [
    "Amazon biodiversity is at risk from metal contamination due to mining activity"
@@ -11842,6 +12691,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     11,
+     3
+    ]
+   ]
+  },
   "publisher": "openRxiv",
   "title": [
    "Challenges and opportunities in detecting leaf water and carotenoid content across biomes from satellite multispectral indices"
@@ -11974,7 +12832,24 @@
    "Functional Ecology"
   ],
   "issue": "6",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     5,
+     8
+    ]
+   ]
+  },
   "page": "1606-1621",
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     6
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Marine\u2010derived nutrients shape the functional composition of High Arctic plant communities"
@@ -12872,7 +13747,24 @@
    "Journal of Ecology"
   ],
   "issue": "6",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     5,
+     2
+    ]
+   ]
+  },
   "page": "1308-1326",
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     6
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Evenness mediates the global relationship between forest productivity and richness"
@@ -12974,7 +13866,24 @@
    "Methods in Ecology and Evolution"
   ],
   "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     9,
+     6
+    ]
+   ]
+  },
   "page": "373-379",
+  "published-print": {
+   "date-parts": [
+    [
+     2018,
+     2
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "The <scp>bien r</scp> package: A tool to access the Botanical Information and Ecology Network (BIEN) database"
@@ -13020,7 +13929,24 @@
    "Methods in Ecology and Evolution"
   ],
   "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     9,
+     25
+    ]
+   ]
+  },
   "page": "305-319",
+  "published-print": {
+   "date-parts": [
+    [
+     2018,
+     2
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "New approaches for delineating\n                    <i>n</i>\n                    \u2010dimensional hypervolumes"
@@ -13118,7 +14044,24 @@
    "Methods in Ecology and Evolution"
   ],
   "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     11,
+     22
+    ]
+   ]
+  },
   "page": "444-458",
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     2
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Ten (mostly) simple rules to future\u2010proof trait data in ecological and evolutionary sciences"
@@ -13148,7 +14091,24 @@
    "Methods in Ecology and Evolution"
   ],
   "issue": "3",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     1,
+     3
+    ]
+   ]
+  },
   "page": "757-770",
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     3
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Regional ecological forecasting across scales: A manifesto for a biodiversity hotspot"
@@ -13218,7 +14178,24 @@
    "Methods in Ecology and Evolution"
   ],
   "issue": "10",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     9,
+     7
+    ]
+   ]
+  },
   "page": "2592-2610",
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     10
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Bootstrapping outperforms community\u2010weighted approaches for estimating the shapes of phenotypic distributions"
@@ -13388,7 +14365,24 @@
    "Methods in Ecology and Evolution"
   ],
   "issue": "5",
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     3,
+     24
+    ]
+   ]
+  },
   "page": "1556-1584",
+  "published-print": {
+   "date-parts": [
+    [
+     2026,
+     5
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "<scp>BIEN</scp>\n                    : A biodiversity informatics ecosystem advancing open and reproducible workflows for plant observation, plot and trait data"
@@ -13438,6 +14432,23 @@
    "Conservation Biology"
   ],
   "issue": "5",
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     5,
+     11
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2026,
+     10
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Reevaluating introduced herbivores in conservation"
@@ -13503,7 +14514,24 @@
    "Diversity and Distributions"
   ],
   "issue": "7",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     3,
+     19
+    ]
+   ]
+  },
   "page": "1166-1179",
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     7
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "High fire frequency and the impact of the 2019\u20132020 megafires on Australian plant diversity"
@@ -13601,7 +14629,24 @@
    "Ecography"
   ],
   "issue": "7",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     2,
+     25
+    ]
+   ]
+  },
   "page": "943-953",
+  "published-print": {
+   "date-parts": [
+    [
+     2020,
+     7
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "30% land conservation and climate action reduces tropical extinction risk by more than 50%"
@@ -13631,6 +14676,23 @@
    "Ecography"
   ],
   "issue": "6",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     5,
+     11
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2022,
+     6
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Where we've been and where we're going: the importance of source communities in predicting establishment success from phylogenetic relationships"
@@ -13668,7 +14730,24 @@
    "Ecography"
   ],
   "issue": "8",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     6,
+     21
+    ]
+   ]
+  },
   "page": "1228-1235",
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     8
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "occCite: Tools for querying and managing large biodiversity occurrence datasets"
@@ -13698,6 +14777,23 @@
    "Ecography"
   ],
   "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     12,
+     24
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2022,
+     2
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Both source\u2010 and recipient\u2010range phylogenetic community structure can predict the outcome of avian introductions"
@@ -13775,6 +14871,23 @@
    "Ecography"
   ],
   "issue": "3",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     1,
+     16
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     3
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "<i>wallace</i>\n                    2: a shiny app for modeling species niches and distributions redesigned to facilitate expansion via module contributions"
@@ -13856,7 +14969,24 @@
    "Ecology Letters"
   ],
   "issue": "6",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     6
+    ]
+   ]
+  },
   "page": "1003-1013",
+  "published-print": {
+   "date-parts": [
+    [
+     2020,
+     6
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Leaf size of woody dicots predicts ecosystem primary productivity"
@@ -13946,7 +15076,24 @@
    "Ecology Letters"
   ],
   "issue": "9",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     5,
+     20
+    ]
+   ]
+  },
   "page": "1988-2009",
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     9
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "The dimensionality and structure of species trait spaces"
@@ -14040,7 +15187,24 @@
    "Ecology Letters"
   ],
   "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     2,
+     5
+    ]
+   ]
+  },
   "page": "504-515",
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     4
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Links to rare climates do not translate into distinct traits for island endemics"
@@ -14102,7 +15266,24 @@
    "Global Change Biology"
   ],
   "issue": "10",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     7,
+     29
+    ]
+   ]
+  },
   "page": "4827-4840",
+  "published-print": {
+   "date-parts": [
+    [
+     2018,
+     10
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Late Quaternary climate legacies in contemporary plant functional composition"
@@ -14188,7 +15369,24 @@
    "Global Ecology and Biogeography"
   ],
   "issue": "12",
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     10,
+     12
+    ]
+   ]
+  },
   "page": "1357-1373",
+  "published-print": {
+   "date-parts": [
+    [
+     2017,
+     12
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Assessing trait\u2010based scaling theory in tropical forests spanning a broad temperature gradient"
@@ -14230,7 +15428,24 @@
    "Global Ecology and Biogeography"
   ],
   "issue": "12",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     8,
+     28
+    ]
+   ]
+  },
   "page": "1912-1924",
+  "published-print": {
+   "date-parts": [
+    [
+     2019,
+     12
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Species' range model metadata standards: RMMS"
@@ -14272,7 +15487,24 @@
    "Global Ecology and Biogeography"
   ],
   "issue": "7",
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     5,
+     3
+    ]
+   ]
+  },
   "page": "1461-1473",
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     7
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Human food use increases plant geographical ranges in the Sonoran Desert"
@@ -14434,7 +15666,24 @@
    "Global Ecology and Biogeography"
   ],
   "issue": "7",
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     4,
+     18
+    ]
+   ]
+  },
   "page": "1242-1260",
+  "published-print": {
+   "date-parts": [
+    [
+     2022,
+     7
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "A review of the heterogeneous landscape of biodiversity databases: Opportunities and challenges for a synthesized biodiversity knowledge base"
@@ -14860,7 +16109,24 @@
    "Global Ecology and Biogeography"
   ],
   "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     12,
+     26
+    ]
+   ]
+  },
   "page": "303-324",
+  "published-print": {
+   "date-parts": [
+    [
+     2024,
+     2
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Global patterns and environmental drivers of forest functional composition"
@@ -14914,6 +16180,23 @@
    "Global Ecology and Biogeography"
   ],
   "issue": "7",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     4,
+     12
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2024,
+     7
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "<scp>occTest</scp>: An integrated approach for quality control of species occurrence data"
@@ -15819,6 +17102,23 @@
    "Global Ecology and Biogeography"
   ],
   "issue": "10",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     7,
+     17
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2024,
+     10
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Dominance and rarity in tree communities across the globe: Patterns, predictors and threats"
@@ -15888,7 +17188,24 @@
    "Ecology Letters"
   ],
   "issue": "6",
+  "issued": {
+   "date-parts": [
+    [
+     2012,
+     4,
+     10
+    ]
+   ]
+  },
   "page": "627-636",
+  "published-print": {
+   "date-parts": [
+    [
+     2012,
+     6
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Does phylogeny matter? Assessing the impact of phylogenetic information in ecological meta\u2010analysis"
@@ -15918,7 +17235,24 @@
    "Ecography"
   ],
   "issue": "7",
+  "issued": {
+   "date-parts": [
+    [
+     2011,
+     11,
+     21
+    ]
+   ]
+  },
   "page": "614-623",
+  "published-print": {
+   "date-parts": [
+    [
+     2012,
+     7
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Patterns of bird invasion are consistent with environmental filtering"
@@ -15952,7 +17286,24 @@
    "Journal of Evolutionary Biology"
   ],
   "issue": "11",
+  "issued": {
+   "date-parts": [
+    [
+     2013,
+     9,
+     10
+    ]
+   ]
+  },
   "page": "2312-2320",
+  "published-print": {
+   "date-parts": [
+    [
+     2013,
+     11
+    ]
+   ]
+  },
   "publisher": "Oxford University Press (OUP)",
   "title": [
    "Body size and sexual size dimorphism in primates: influence of climate and net primary productivity"
@@ -16086,9 +17437,154 @@
    "Journal of Vegetation Science"
   ],
   "issue": "5",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     9
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     9
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Effects of Warming, Nitrogen and Grazing on Plant Functional Traits Differ Between Alpine and Sub\u2010Alpine Grasslands"
+  ],
+  "volume": "36"
+ },
+ "10.1111/jvs.70098": {
+  "author": [
+   {
+    "family": "Erkelenz",
+    "given": "Joshua"
+   },
+   {
+    "family": "Geange",
+    "given": "Sonya R."
+   },
+   {
+    "family": "Atkinson",
+    "given": "Joe"
+   },
+   {
+    "family": "Anderson",
+    "given": "Emil"
+   },
+   {
+    "family": "Correia",
+    "given": "Marta"
+   },
+   {
+    "family": "Ahler",
+    "given": "Sam J."
+   },
+   {
+    "family": "Bradler",
+    "given": "Pia"
+   },
+   {
+    "family": "L\u00f6wenstein",
+    "given": "Cora E."
+   },
+   {
+    "family": "Elsy",
+    "given": "Alexander"
+   },
+   {
+    "family": "Mar\u00e9",
+    "given": "Celest\u00e9"
+   },
+   {
+    "family": "Eshelman",
+    "given": "Susan"
+   },
+   {
+    "family": "Mauki",
+    "given": "Dickson"
+   },
+   {
+    "family": "Guclu",
+    "given": "Coskun"
+   },
+   {
+    "family": "Eckberg",
+    "given": "Julia"
+   },
+   {
+    "family": "Maitner",
+    "given": "Brian"
+   },
+   {
+    "family": "Gya",
+    "given": "Ragnhild"
+   },
+   {
+    "family": "T\u00f6pper",
+    "given": "Joachim"
+   },
+   {
+    "family": "Klanderud",
+    "given": "Kari"
+   },
+   {
+    "family": "Enquist",
+    "given": "Brian J."
+   },
+   {
+    "family": "Michaletz",
+    "given": "Sean T."
+   },
+   {
+    "family": "Ray",
+    "given": "Courtenay A."
+   },
+   {
+    "family": "von Oppen",
+    "given": "Jonathan"
+   },
+   {
+    "family": "Cubino",
+    "given": "Josep Padull\u00e9s"
+   },
+   {
+    "family": "Halbritter",
+    "given": "Aud H."
+   },
+   {
+    "family": "Vandvik",
+    "given": "Vigdis"
+   }
+  ],
+  "container-title": [
+   "Journal of Vegetation Science"
+  ],
+  "issue": "6",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     11
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     11
+    ]
+   ]
+  },
+  "publisher": "Wiley",
+  "title": [
+   "Intraspecific Functional Trait Responses to Experimental Warming Vary With Precipitation and Growth Form"
   ],
   "volume": "36"
  },
@@ -16123,7 +17619,24 @@
    "New Phytologist"
   ],
   "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     6,
+     27
+    ]
+   ]
+  },
   "page": "1345-1354",
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     11
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "A global assessment of the Raunki\u00e6ran shortfall in plants: geographic biases in our knowledge of plant traits"
@@ -16189,6 +17702,24 @@
    "Science Advances"
   ],
   "issue": "12",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     12,
+     6
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2019,
+     12,
+     6
+    ]
+   ]
+  },
   "publisher": "American Association for the Advancement of Science (AAAS)",
   "title": [
    "Informing trait-based ecology by assessing remotely sensed functional diversity across a broad tropical temperature gradient"
@@ -16342,6 +17873,22 @@
    "Science Advances"
   ],
   "issue": "11",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     11
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2019,
+     11
+    ]
+   ]
+  },
   "publisher": "American Association for the Advancement of Science (AAAS)",
   "title": [
    "The commonness of rarity: Global and future distribution of rarity across land plants"
@@ -16591,6 +18138,24 @@
    "Science Advances"
   ],
   "issue": "14",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     4,
+     7
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     4,
+     7
+    ]
+   ]
+  },
   "publisher": "American Association for the Advancement of Science (AAAS)",
   "title": [
    "Global beta-diversity of angiosperm trees is shaped by Quaternary climate change"
@@ -16656,6 +18221,24 @@
    "Science"
   ],
   "issue": "6425",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     25
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2019,
+     1,
+     25
+    ]
+   ]
+  },
   "publisher": "American Association for the Advancement of Science (AAAS)",
   "title": [
    "Metabolic asymmetry and the global diversity of marine predators"
@@ -16689,6 +18272,22 @@
    "Forest Ecosystems"
   ],
   "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     12
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2017,
+     12
+    ]
+   ]
+  },
   "publisher": "Elsevier BV",
   "title": [
    "Big data of tree species distributions: how big and how good?"
@@ -16742,6 +18341,15 @@
    "PLOS ONE"
   ],
   "issue": "11",
+  "issued": {
+   "date-parts": [
+    [
+     2022,
+     11,
+     14
+    ]
+   ]
+  },
   "page": "e0268162",
   "publisher": "Public Library of Science (PLoS)",
   "title": [
@@ -16845,6 +18453,13 @@
     "literal": "Brian J. Enquist"
    }
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
   "publisher": "OSF",
   "title": "PFTC1 - PFTCourses Elevational Gradient and TransPlant Experiment, Gongga Mountain, China"
  },
@@ -16939,6 +18554,13 @@
     "given": "Nicole Noemi"
    }
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
   "publisher": "OSF",
   "title": "PFTC6 - PFTCourses plant functional traits, carbon fluxes, temperatures, and spectral data from climate and global change experiments along climate gradients in Western Norway"
  },
@@ -17112,6 +18734,13 @@
     "given": "Michelle"
    }
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
   "publisher": "OSF",
   "title": "PFTC7 - PFTCourses plant functional traits, carbon fluxes, temperatures, and spectral data from an elevation gradient and a ITEX warming experiment in the Drakensberg Mountains in South Africa."
  },
@@ -17164,6 +18793,13 @@
    }
   ],
   "container-title": "The University of North Carolina at Chapel Hill University Libraries",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
   "publisher": "The University of North Carolina at Chapel Hill University Libraries",
   "title": "Code sharing in ecology and evolution increases citation rates but remains uncommon."
  },
@@ -17232,6 +18868,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     8,
+     4
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Code sharing increases citations, but remains uncommon"
@@ -18189,6 +19834,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     2,
+     22
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Consistent climatic controls of global wood density among angiosperms and gymnosperms"
@@ -18234,6 +19888,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     1,
+     24
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Unprecedented heat threatened 1 in 10 vertebrate species in 2023"
@@ -18287,6 +19950,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     8,
+     26
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Early warning system predicts exposure to extreme temperatures in 2024"
@@ -18348,6 +20020,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     9,
+     17
+    ]
+   ]
+  },
   "publisher": "Springer Science and Business Media LLC",
   "title": [
    "Explainable Artificial Intelligence Reveals Spatially Divergent Effects of Global Change on Mammals"
@@ -18409,6 +20090,13 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
   "publisher": "Elsevier BV",
   "title": [
    "Strategic Conservation of Global Vertebrates in Response to Climate Change"
@@ -18474,6 +20162,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     5,
+     25
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "On estimating the shape and dynamics of phenotypic distributions in ecology and evolution"
@@ -18543,6 +20240,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     11,
+     15
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Code sharing increases citations but remains uncommon"
@@ -18572,6 +20278,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     4,
+     14
+    ]
+   ]
+  },
   "publisher": "Wiley",
   "title": [
    "Flexible Methods for Species Distribution Modeling with Small Samples"
@@ -18587,6 +20302,24 @@
   "container-title": [
    "CRAN: Contributed Packages"
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2017,
+     1,
+     12
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2017,
+     1,
+     12
+    ]
+   ]
+  },
   "publisher": "The R Foundation",
   "title": [
    "BIEN: Tools for Accessing the Botanical Information and Ecology Network Database"
@@ -18606,6 +20339,24 @@
   "container-title": [
    "CRAN: Contributed Packages"
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     28
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2020,
+     4,
+     28
+    ]
+   ]
+  },
   "publisher": "The R Foundation",
   "title": [
    "GNRS: Access the 'Geographic Name Resolution Service'"
@@ -18629,6 +20380,24 @@
   "container-title": [
    "CRAN: Contributed Packages"
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     12,
+     5
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2024,
+     12,
+     5
+    ]
+   ]
+  },
   "publisher": "The R Foundation",
   "title": [
    "GVS: 'Geocoordinate Validation Service'"
@@ -18648,6 +20417,24 @@
   "container-title": [
    "CRAN: Contributed Packages"
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     16
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     16
+    ]
+   ]
+  },
   "publisher": "The R Foundation",
   "title": [
    "NSR: 'Native Status Resolver'"
@@ -18667,6 +20454,24 @@
   "container-title": [
    "CRAN: Contributed Packages"
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     3,
+     30
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     3,
+     30
+    ]
+   ]
+  },
   "publisher": "The R Foundation",
   "title": [
    "TNRS: Taxonomic Name Resolution Service"
@@ -18690,6 +20495,24 @@
   "container-title": [
    "CRAN: Contributed Packages"
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     5,
+     12
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     5,
+     12
+    ]
+   ]
+  },
   "publisher": "The R Foundation",
   "title": [
    "traitstrap: Bootstrap Trait Values to Calculate Moments"
@@ -18739,6 +20562,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     6,
+     29
+    ]
+   ]
+  },
   "publisher": "California Digital Library (CDL)",
   "title": [
    "A review of the heterogeneous landscape of biodiversity databases: opportunities and challenges for a synthesized biodiversity knowledge base"
@@ -18788,6 +20620,15 @@
    }
   ],
   "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     8,
+     9
+    ]
+   ]
+  },
   "publisher": "California Digital Library (CDL)",
   "title": [
    "The commonness of rarity: Global and future distribution of rarity across land plants"
@@ -18855,6 +20696,15 @@
   "container-title": [
    "Frontiers in Ecology and Evolution"
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     12,
+     18
+    ]
+   ]
+  },
   "publisher": "Frontiers Media SA",
   "title": [
    "Plant Functional Diversity and the Biogeography of Biomes in North and South America"
@@ -18919,6 +20769,15 @@
   "container-title": [
    "Frontiers in Plant Science"
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     11,
+     13
+    ]
+   ]
+  },
   "publisher": "Frontiers Media SA",
   "title": [
    "Intraspecific Trait Variation and Phenotypic Plasticity Mediate Alpine Plant Species Response to Climate Change"
@@ -18993,75 +20852,17 @@
    }
   ],
   "container-title": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     8,
+     25
+    ]
+   ]
+  },
   "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
   "title": "Plant traits and associated ecological data from global change experiments and climate gradients in Norway"
- },
- "10.48548/pubdata-4153": {
-  "author": [
-   {
-    "family": "Erkelenz",
-    "given": "Joshua"
-   },
-   {
-    "family": "Geange",
-    "given": "Sonya R."
-   },
-   {
-    "family": "Atkinson",
-    "given": "Joe"
-   },
-   {
-    "family": "Anderson",
-    "given": "Emil"
-   },
-   {
-    "family": "Correia",
-    "given": "Marta"
-   },
-   {
-    "family": "Ahler",
-    "given": "Sam J."
-   },
-   {
-    "family": "Bradler",
-    "given": "Pia"
-   },
-   {
-    "family": "L\u00f6wenstein",
-    "given": "Cora E."
-   },
-   {
-    "family": "Elsy",
-    "given": "Alexander"
-   },
-   {
-    "family": "Mar\u00e9",
-    "given": "Celest\u00e9"
-   },
-   {
-    "family": "Eshelman",
-    "given": "Susan"
-   },
-   {
-    "family": "Mauki",
-    "given": "Dickson"
-   },
-   {
-    "family": "Guclu",
-    "given": "Coskun"
-   },
-   {
-    "family": "Eckberg",
-    "given": "Julia"
-   },
-   {
-    "family": "Maitner",
-    "given": "Brian"
-   }
-  ],
-  "container-title": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
-  "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
-  "title": "Intraspecific Functional Trait Responses to Experimental Warming Vary With Precipitation and Growth Form"
  },
  "10.5061/dryad.0vt4b8hc2": {
   "author": [
@@ -19086,6 +20887,15 @@
     "given": "Cory"
    }
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     12,
+     16
+    ]
+   ]
+  },
   "publisher": "Dryad",
   "title": "Data from: Flexible methods for species distribution modeling with small samples"
  },
@@ -19108,6 +20918,15 @@
     "given": "Katrina"
    }
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     12,
+     7
+    ]
+   ]
+  },
   "publisher": "Dryad",
   "title": "Both source and recipient range phylogenetic community structure can predict the outcome of avian introductions"
  },
@@ -19183,6 +21002,15 @@
    }
   ],
   "container-title": "Wiley-Blackwell Publishing, Inc.",
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     6,
+     1
+    ]
+   ]
+  },
   "publisher": "Wiley-Blackwell Publishing, Inc.",
   "title": "Leaf size of woody dicots predicts ecosystem primary productivity"
  },
@@ -19289,6 +21117,15 @@
     "given": "Lucie"
    }
   ],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     9,
+     26
+    ]
+   ]
+  },
   "publisher": "FRB-CESAB",
   "title": "Causes and consequences of functional rarity from local to global scales"
  },
@@ -19482,6 +21319,15 @@
    }
   ],
   "container-title": "OpenAlex",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     2,
+     21
+    ]
+   ]
+  },
   "publisher": "OpenAlex",
   "title": "Plant trait and vegetation data along a 1314 m elevation gradient with fire history in Puna grasslands, Per\u00fa"
  }

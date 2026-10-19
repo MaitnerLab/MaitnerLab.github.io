@@ -24,7 +24,10 @@ ORCID = "0000-0002-2118-9880"
 OUTPUT = "publications.qmd"
 CACHE = "scripts/publications_cache.json"  # saved citation details, so re-runs only fetch new DOIs
 CONTACT = "bmaitner@usf.edu"  # sent to Crossref, per their API etiquette
-EXCLUDE_DOIS = set()  # DOIs to leave off the page (e.g., repository copies of a paper)
+EXCLUDE_DOIS = {  # DOIs to leave off the page (e.g., repository copies of a paper)
+    "10.48548/pubdata-4153",  # repository copy of 10.1111/jvs.70098
+    "10.1073/pnas.25049451221",  # mistyped DOI in a Web of Science import of 10.1073/pnas.2504945122
+}
 # Current lab members (family name, first initial), shown in bold. Update as people join or leave.
 LAB_MEMBERS = [("Maitner", "B"), ("Pillet", "M"), ("Grosscup", "J"), ("Diodato", "A")]
 MAX_AUTHORS = 8  # longer author lists are shortened with "et al."
@@ -32,7 +35,7 @@ PREPRINT_SERVERS = {  # DOI prefix -> name (Crossref lists the publisher, not th
     "10.1101": "bioRxiv", "10.21203": "Research Square", "10.22541": "Authorea",
     "10.2139": "SSRN", "10.32942": "EcoEvoRxiv",
 }
-KEEP_FIELDS = ("title", "author", "container-title", "publisher", "volume", "issue", "page")
+KEEP_FIELDS = ("title", "author", "container-title", "publisher", "volume", "issue", "page", "issued", "published-print")
 PREPRINT_SOURCES = ("biorxiv", "research square", "ssrn", "authorea", "ecoevorxiv", "osf")
 
 
@@ -61,6 +64,8 @@ def orcid_works():
         kind = s["type"]
         if kind in ("other", "report"):
             kind = "preprint" if any(p in source for p in PREPRINT_SOURCES) else "report"
+        if dois[0].split("/")[0] in PREPRINT_SERVERS:  # ORCID sometimes types preprints as articles
+            kind = "preprint"
         if kind == "data-set" and "cran" in source:
             kind = "software"
         title = s["title"]["title"]["value"]
@@ -169,6 +174,11 @@ def main():
     with open(CACHE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(cache, f, indent=1, sort_keys=True)
     details = cache
+    for w in works:  # prefer the publisher's (print issue) year; ORCID imports can be off by one
+        c = details.get(w["doi"]) or {}
+        issued = (c.get("published-print") or c.get("issued") or {}).get("date-parts", [[None]])[0][0]
+        if issued:
+            w["year"] = int(issued)
 
     articles = [w for w in works if w["kind"] == "journal-article"]
     published = [norm_title(w["title"]) for w in articles]

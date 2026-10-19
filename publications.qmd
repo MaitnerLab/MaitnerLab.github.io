@@ -17,6 +17,8 @@ Lab members' publications, drawn from [Brian Maitner's ORCID record](https://orc
 
 - **Maitner BS**, Richards RL, Carlson BS, Drake JM, Merow C (2026). Flexible methods for species distribution modeling with small samples. *Ecography* 2026(2). [doi:10.1002/ecog.08112](https://doi.org/10.1002/ecog.08112)
 
+- Guo WY, Serra-Diaz JM, Guo K, Boonman CCF, Schrodt F, **Maitner BS**, et al. (2026). Global functional shifts in trees driven by alien naturalization and native extinction. *Nature Plants* 12(2): 308–318. [doi:10.1038/s41477-025-02207-2](https://doi.org/10.1038/s41477-025-02207-2)
+
 - Trepel J, Buitenwerf R, Ferraro K, le Roux E, Lundgren E, **Maitner B**, et al. (2026). Reevaluating introduced herbivores in conservation. *Conservation Biology* 40(5). [doi:10.1111/cobi.70328](https://doi.org/10.1111/cobi.70328)
 
 ### 2025
@@ -33,7 +35,7 @@ Lab members' publications, drawn from [Brian Maitner's ORCID record](https://orc
 
 - Merow C, **Maitner BS**, Schwarz Meyer A, Pigot AL, Serra-Diaz JM, Urban MC (2025). Hottest year in recorded history compounds global biodiversity risks. *Proceedings of the National Academy of Sciences* 122(35). [doi:10.1073/pnas.2504945122](https://doi.org/10.1073/pnas.2504945122)
 
-- Erkelenz J, Geange SR, Atkinson J, Anderson E, Correia M, Ahler SJ, …, **Maitner B**, et al. (2025). Intraspecific Functional Trait Responses to Experimental Warming Vary With Precipitation and Growth Form. *Medien- und Informationszentrum, Leuphana Universität Lüneburg*. [doi:10.48548/pubdata-4153](https://doi.org/10.48548/pubdata-4153)
+- Erkelenz J, Geange SR, Atkinson J, Anderson E, Correia M, Ahler SJ, …, **Maitner B**, et al. (2025). Intraspecific Functional Trait Responses to Experimental Warming Vary With Precipitation and Growth Form. *Journal of Vegetation Science* 36(6). [doi:10.1111/jvs.70098](https://doi.org/10.1111/jvs.70098)
 
 - Roos RE, Kemppinen J, Niittynen P, Vandvik V, Althuizen I, Eidesen PB, …, **Maitner BS**, et al. (2025). Marine‐derived nutrients shape the functional composition of High Arctic plant communities. *Functional Ecology* 39(6): 1606–1621. [doi:10.1111/1365-2435.70056](https://doi.org/10.1111/1365-2435.70056)
 

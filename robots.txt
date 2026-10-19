@@ -1,1 +1,1 @@
-Sitemap: https://MaitnerLab.github.io/sitemap.xml
+Sitemap: https://maitnerlab.github.io/sitemap.xml

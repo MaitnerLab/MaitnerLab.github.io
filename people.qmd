@@ -6,7 +6,7 @@ from: markdown+emoji
 
 ## Brian Maitner
 
-![](assets/images/vlcsnap-2023-05-03-08h34m51s543.png){fig-alt="Photo of Brian Maitner" width=600 fig-align="center"}
+![](assets/images/brian-maitner.jpg){fig-alt="Photo of Brian Maitner" width=600 fig-align="center"}
 
 *Academic stuff*
 
@@ -28,7 +28,7 @@ Outside of work I'm an avid reader (golden age sci-fi, classic literature, philo
 
 ## Michiel (Mich) Pillet
 
-![](assets/images/Mich.jpg){fig-alt="Photo of Michiel (Mich) Pillet" width=400 fig-align="center"}
+![](assets/images/michiel-pillet.jpg){fig-alt="Photo of Michiel (Mich) Pillet" width=400 fig-align="center"}
 
 *Academic stuff*
 
@@ -46,7 +46,7 @@ I'm obsessed with cacti, objectively the best plant family. I also operate a con
 
 ## Mac Grosscup
 
-![](assets/images/Mac_Grosscup.jpeg){fig-alt="Photo of Mac Grosscup" width=400 fig-align="center"}
+![](assets/images/mac-grosscup.jpg){fig-alt="Photo of Mac Grosscup" width=400 fig-align="center"}
 
 *Academic stuff*
 
@@ -60,7 +60,7 @@ I have an extensive collection of tropical epiphytes from families like Araceae,
 
 ## Alyssa Diodato
 
-![](assets/images/Alyssa_Diodato.png){fig-alt="Photo of Alyssa Diodato" width=400 fig-align="center"}
+![](assets/images/alyssa-diodato.jpg){fig-alt="Photo of Alyssa Diodato" width=400 fig-align="center"}
 
 *Academic stuff*
 

@@ -57,3 +57,5 @@ format:
     toc-location: left
     lang: en
     canonical-url: true
+    include-in-header:
+      text: '<meta name="google-site-verification" content="49U9XnGDTDWPDZljcot6RRjzQWgEOhkQOBvY-zBEShA" />'

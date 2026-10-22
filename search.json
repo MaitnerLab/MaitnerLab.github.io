@@ -1,38 +1,31 @@
 [
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "Lab Members",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maitner Lab",
     "section": "",
-    "text": "Academic stuff\nI’m an Assistant Professor of Global Change in the Integrative Biology Department at the University of South Florida - St. Petersburg. I’m a macroecologist and community ecologist who works across taxa (primarily focusing on plants and terrestrial vertebrates) using both ecological and evolutionary approaches with strong informatics and computational components. I’m a big believer in working collaboratively, which benefits from the integration of diverse perspectives and multiple skill sets.\n\nEmail: bmaitner@usf.edu\nBluesky @maitner.bsky.social\nTwitter @BrianMaitner\nResearchGate\nGoogle Scholar\nGithub\n\nNon-academic stuff\nOutside of work I’m an avid reader (golden age sci-fi, classic literature, philosophy, comic books, etc.) and toy fan (action figures and Legos), and I enjoy a wide variety of music and movies (particularly from the 80s).\n\nDiscogs\nLetterboxd"
+    "text": "The Maitner Lab is led by Dr. Brian Maitner in the Department of Integrative Biology at the University of South Florida – St. Petersburg. The focus of the lab is (primarily) on topics related to biodiversity, including quantifying and mapping biodiversity, understanding the drivers of biodiversity patterns and how biodiversity may be impacted by global changes, and working on making these findings relevant for decision makers. Work in the lab is open to any group of organisms, but tends to focus on plants (as they account for most of the biomass on Earth and their traits are primary drivers of terrestrial ecosystem functioning). We practice Open Science and take a highly collaborative and cooperative approach to research."
   },
   {
-    "objectID": "people.html#brian-maitner",
-    "href": "people.html#brian-maitner",
-    "title": "Lab Members",
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Maitner Lab",
     "section": "",
-    "text": "Academic stuff\nI’m an Assistant Professor of Global Change in the Integrative Biology Department at the University of South Florida - St. Petersburg. I’m a macroecologist and community ecologist who works across taxa (primarily focusing on plants and terrestrial vertebrates) using both ecological and evolutionary approaches with strong informatics and computational components. I’m a big believer in working collaboratively, which benefits from the integration of diverse perspectives and multiple skill sets.\n\nEmail: bmaitner@usf.edu\nBluesky @maitner.bsky.social\nTwitter @BrianMaitner\nResearchGate\nGoogle Scholar\nGithub\n\nNon-academic stuff\nOutside of work I’m an avid reader (golden age sci-fi, classic literature, philosophy, comic books, etc.) and toy fan (action figures and Legos), and I enjoy a wide variety of music and movies (particularly from the 80s).\n\nDiscogs\nLetterboxd"
+    "text": "The Maitner Lab is led by Dr. Brian Maitner in the Department of Integrative Biology at the University of South Florida – St. Petersburg. The focus of the lab is (primarily) on topics related to biodiversity, including quantifying and mapping biodiversity, understanding the drivers of biodiversity patterns and how biodiversity may be impacted by global changes, and working on making these findings relevant for decision makers. Work in the lab is open to any group of organisms, but tends to focus on plants (as they account for most of the biomass on Earth and their traits are primary drivers of terrestrial ecosystem functioning). We practice Open Science and take a highly collaborative and cooperative approach to research."
   },
   {
-    "objectID": "people.html#michiel-mich-pillet",
-    "href": "people.html#michiel-mich-pillet",
-    "title": "Lab Members",
-    "section": "Michiel (Mich) Pillet",
-    "text": "Michiel (Mich) Pillet\n\n\n\n\n\nAcademic stuff\nI’m a Postdoctoral Research Scholar in the Department of Integrative Biology at the University of South Florida and an Associate Researcher in the Department of Ecology and Evolutionary Biology at the University of Arizona. I consider myself a conservation ecologist specializing in climate change impacts on biodiversity, with a focus on cacti and succulents. My research integrates ecological theory, evolutionary approaches, species distribution modeling, and other quantitative methods to inform conservation planning and policy. I collaborate widely with academic partners and conservation stakeholders, and believe strongly in the importance of public engagement and science communication.\n\nEmail: mdpillet@gmail.com\nGoogle Scholar\nWebsite (bit outdated)\nCV\nGitHub\n\nNon-academic stuff\nI’m obsessed with cacti, objectively the best plant family. I also operate a conservation nursery, Prickly Prospects."
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Maitner Lab",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nBiodiversity patterns\nWe study biodiversity patterns using both top-down and bottom-up approaches. With the top-down approach, we use data science to aggregate and clean existing data to ask questions at large spatial or taxonomic scales. For example, we’ve worked with our collaborators to assess knowledge gaps in plant data and shortfalls in plant conservation assessments, and have shown how database integration can lead to massive improvements in data availability. With the bottom-up approach, we focus on using field observations to understand biodiversity patterns and their correlates. For example, with our collaborators, we’ve worked on understanding environmental correlates of plant traits in China, Norway, Peru, and other locations. We also work on improving how trait-based ecology is done, including better incorporating uncertainty and advocating for best-practices in trait-based ecology.\n\n\nConservation\nIn addition to studying biodiversity patterns themselves, we’re interested in how that knowledge can be applied in a conservation setting. Knowing how biodiversity is distributed, and how it might be changing, is of critical importance for protecting biodiversity (and its contributions to people). For example, we’ve worked with colleagues to understand how climate change may be threatening cactus species and how we can design protected areas in response to species range shifts. We’ve also worked to asssess the impacts of fires on biodiversity in both the Amazon and Australia. We’re also interested in how global change drivers can be used as “unplanned experiments” to test ecological theories, for example testing community assembly theory using bird introductions.\n\n\nOpen Science\nOpen Science work in the lab includes both work focused on the development and dissemination of Open Science products and work focused on the impacts of Open Science. For example, we participate in the development and maintainance of multiple R packages, including BIEN, TNRS, GNRS, and Wallace 2. In terms of work focused on the impact of Open Science, we’ve published on the importance of Open Science in trait-based ecology, the need to incentivize software developers, and have shown how Open Science can improve citation rates.\nFor a full list of our papers, preprints, R packages, and datasets, see Publications."
   },
   {
-    "objectID": "people.html#mac-grosscup",
-    "href": "people.html#mac-grosscup",
-    "title": "Lab Members",
-    "section": "Mac Grosscup",
-    "text": "Mac Grosscup\n\n\n\n\n\nAcademic stuff\nI am a Master’s Student in the Conservation Biology program at the University of South Florida – St. Petersburg. Plant ecology is one of my primary scientific interests, specifically in the Neotropics. I am curious about how plants broadly respond to global change, as well as how rare or underrepresented taxa reappear after disturbance events. I am particularly interested in examining these phenomena through the lens of trait evolution.\n\nEmail: jgrosscup@usf.edu\n\nOutside of the Lab\nI have an extensive collection of tropical epiphytes from families like Araceae, Orchidaceae, and Apocynaceae. I also love cooking recipes from many different global cuisines!"
-  },
-  {
-    "objectID": "people.html#alyssa-diodato",
-    "href": "people.html#alyssa-diodato",
-    "title": "Lab Members",
-    "section": "Alyssa Diodato",
-    "text": "Alyssa Diodato\n\n\n\n\n\nAcademic stuff\nI’m a Master’s Student in Conservation Biology at the University of South Florida- St. Petersburg. I have a strong background in horticulture for the purpose of habitat restoration, and an interest in plant ecology insights that can be applied to practice. I am interested in how climate change or land use patterns may affect suitable habitat ranges as well as looking at specific responses in plants themselves, such as germination time. I hope my work can someday provide practitioners with better insights to create more resilient ecosystems.\n\nEmail: adiodato@usf.edu\n\nOutside of the Lab\nI love playing DND with friends, doing anything creative with my hands, and watching animated shows and movies. The temperate forests of the Northeast United States and the landscapes of Ireland both have a special place in my heart."
+    "objectID": "index.html#join-the-lab",
+    "href": "index.html#join-the-lab",
+    "title": "Maitner Lab",
+    "section": "Join the lab!",
+    "text": "Join the lab!\nWe’re currently looking for graduate students to join the lab. Students should be strongly self-motivated and full of ideas they’re interested in! In particular, we’re looking for students that have an interest in either (or both) of the following approaches: 1) using data wrangling and coding to address large-scale questions, or 2) using field-based methods to address ecological or global-change questions. See the Prospective Students page for details on how to apply, or email Brian if you’re interested."
   },
   {
     "objectID": "students.html",
@@ -98,32 +91,39 @@
     "text": "Our approach\nWe practice Open Science and take a highly collaborative, cooperative approach to research. Students in the lab learn reproducible workflows (especially R and version control) and work with collaborators across institutions and countries. They’re encouraged to develop their own questions, not just work on someone else’s."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Maitner Lab",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Lab Members",
     "section": "",
-    "text": "The Maitner Lab is led by Dr. Brian Maitner in the Department of Integrative Biology at the University of South Florida – St. Petersburg. The focus of the lab is (primarily) on topics related to biodiversity, including quantifying and mapping biodiversity, understanding the drivers of biodiversity patterns and how biodiversity may be impacted by global changes, and working on making these findings relevant for decision makers. Work in the lab is open to any group of organisms, but tends to focus on plants (as they account for most of the biomass on Earth and their traits are primary drivers of terrestrial ecosystem functioning). We practice Open Science and take a highly collaborative and cooperative approach to research."
+    "text": "Academic stuff\nI’m an Assistant Professor of Global Change in the Integrative Biology Department at the University of South Florida - St. Petersburg. I’m a macroecologist and community ecologist who works across taxa (primarily focusing on plants and terrestrial vertebrates) using both ecological and evolutionary approaches with strong informatics and computational components. I’m a big believer in working collaboratively, which benefits from the integration of diverse perspectives and multiple skill sets.\n\nEmail: bmaitner@usf.edu\nBluesky @maitner.bsky.social\nTwitter @BrianMaitner\nResearchGate\nGoogle Scholar\nGithub\n\nNon-academic stuff\nOutside of work I’m an avid reader (golden age sci-fi, classic literature, philosophy, comic books, etc.) and toy fan (action figures and Legos), and I enjoy a wide variety of music and movies (particularly from the 80s).\n\nDiscogs\nLetterboxd"
   },
   {
-    "objectID": "index.html#overview",
-    "href": "index.html#overview",
-    "title": "Maitner Lab",
+    "objectID": "people.html#brian-maitner",
+    "href": "people.html#brian-maitner",
+    "title": "Lab Members",
     "section": "",
-    "text": "The Maitner Lab is led by Dr. Brian Maitner in the Department of Integrative Biology at the University of South Florida – St. Petersburg. The focus of the lab is (primarily) on topics related to biodiversity, including quantifying and mapping biodiversity, understanding the drivers of biodiversity patterns and how biodiversity may be impacted by global changes, and working on making these findings relevant for decision makers. Work in the lab is open to any group of organisms, but tends to focus on plants (as they account for most of the biomass on Earth and their traits are primary drivers of terrestrial ecosystem functioning). We practice Open Science and take a highly collaborative and cooperative approach to research."
+    "text": "Academic stuff\nI’m an Assistant Professor of Global Change in the Integrative Biology Department at the University of South Florida - St. Petersburg. I’m a macroecologist and community ecologist who works across taxa (primarily focusing on plants and terrestrial vertebrates) using both ecological and evolutionary approaches with strong informatics and computational components. I’m a big believer in working collaboratively, which benefits from the integration of diverse perspectives and multiple skill sets.\n\nEmail: bmaitner@usf.edu\nBluesky @maitner.bsky.social\nTwitter @BrianMaitner\nResearchGate\nGoogle Scholar\nGithub\n\nNon-academic stuff\nOutside of work I’m an avid reader (golden age sci-fi, classic literature, philosophy, comic books, etc.) and toy fan (action figures and Legos), and I enjoy a wide variety of music and movies (particularly from the 80s).\n\nDiscogs\nLetterboxd"
   },
   {
-    "objectID": "index.html#research-areas",
-    "href": "index.html#research-areas",
-    "title": "Maitner Lab",
-    "section": "Research Areas",
-    "text": "Research Areas\n\nBiodiversity patterns\nWe study biodiversity patterns using both top-down and bottom-up approaches. With the top-down approach, we use data science to aggregate and clean existing data to ask questions at large spatial or taxonomic scales. For example, we’ve worked with our collaborators to assess knowledge gaps in plant data and shortfalls in plant conservation assessments, and have shown how database integration can lead to massive improvements in data availability. With the bottom-up approach, we focus on using field observations to understand biodiversity patterns and their correlates. For example, with our collaborators, we’ve worked on understanding environmental correlates of plant traits in China, Norway, Peru, and other locations. We also work on improving how trait-based ecology is done, including better incorporating uncertainty and advocating for best-practices in trait-based ecology.\n\n\nConservation\nIn addition to studying biodiversity patterns themselves, we’re interested in how that knowledge can be applied in a conservation setting. Knowing how biodiversity is distributed, and how it might be changing, is of critical importance for protecting biodiversity (and its contributions to people). For example, we’ve worked with colleagues to understand how climate change may be threatening cactus species and how we can design protected areas in response to species range shifts. We’ve also worked to asssess the impacts of fires on biodiversity in both the Amazon and Australia. We’re also interested in how global change drivers can be used as “unplanned experiments” to test ecological theories, for example testing community assembly theory using bird introductions.\n\n\nOpen Science\nOpen Science work in the lab includes both work focused on the development and dissemination of Open Science products and work focused on the impacts of Open Science. For example, we participate in the development and maintainance of multiple R packages, including BIEN, TNRS, GNRS, and Wallace 2. In terms of work focused on the impact of Open Science, we’ve published on the importance of Open Science in trait-based ecology, the need to incentivize software developers, and have shown how Open Science can improve citation rates.\nFor a full list of our papers, preprints, R packages, and datasets, see Publications."
+    "objectID": "people.html#michiel-mich-pillet",
+    "href": "people.html#michiel-mich-pillet",
+    "title": "Lab Members",
+    "section": "Michiel (Mich) Pillet",
+    "text": "Michiel (Mich) Pillet\n\n\n\n\n\nAcademic stuff\nI’m a Postdoctoral Research Scholar in the Department of Integrative Biology at the University of South Florida and an Associate Researcher in the Department of Ecology and Evolutionary Biology at the University of Arizona. I consider myself a conservation ecologist specializing in climate change impacts on biodiversity, with a focus on cacti and succulents. My research integrates ecological theory, evolutionary approaches, species distribution modeling, and other quantitative methods to inform conservation planning and policy. I collaborate widely with academic partners and conservation stakeholders, and believe strongly in the importance of public engagement and science communication.\n\nEmail: mdpillet@gmail.com\nGoogle Scholar\nWebsite (bit outdated)\nCV\nGitHub\n\nNon-academic stuff\nI’m obsessed with cacti, objectively the best plant family. I also operate a conservation nursery, Prickly Prospects."
   },
   {
-    "objectID": "index.html#join-the-lab",
-    "href": "index.html#join-the-lab",
-    "title": "Maitner Lab",
-    "section": "Join the lab!",
-    "text": "Join the lab!\nWe’re currently looking for graduate students to join the lab. Students should be strongly self-motivated and full of ideas they’re interested in! In particular, we’re looking for students that have an interest in either (or both) of the following approaches: 1) using data wrangling and coding to address large-scale questions, or 2) using field-based methods to address ecological or global-change questions. See the Prospective Students page for details on how to apply, or email Brian if you’re interested."
+    "objectID": "people.html#mac-grosscup",
+    "href": "people.html#mac-grosscup",
+    "title": "Lab Members",
+    "section": "Mac Grosscup",
+    "text": "Mac Grosscup\n\n\n\n\n\nAcademic stuff\nI am a Master’s Student in the Conservation Biology program at the University of South Florida – St. Petersburg. Plant ecology is one of my primary scientific interests, specifically in the Neotropics. I am curious about how plants broadly respond to global change, as well as how rare or underrepresented taxa reappear after disturbance events. I am particularly interested in examining these phenomena through the lens of trait evolution.\n\nEmail: jgrosscup@usf.edu\n\nOutside of the Lab\nI have an extensive collection of tropical epiphytes from families like Araceae, Orchidaceae, and Apocynaceae. I also love cooking recipes from many different global cuisines!"
+  },
+  {
+    "objectID": "people.html#alyssa-diodato",
+    "href": "people.html#alyssa-diodato",
+    "title": "Lab Members",
+    "section": "Alyssa Diodato",
+    "text": "Alyssa Diodato\n\n\n\n\n\nAcademic stuff\nI’m a Master’s Student in Conservation Biology at the University of South Florida- St. Petersburg. I have a strong background in horticulture for the purpose of habitat restoration, and an interest in plant ecology insights that can be applied to practice. I am interested in how climate change or land use patterns may affect suitable habitat ranges as well as looking at specific responses in plants themselves, such as germination time. I hope my work can someday provide practitioners with better insights to create more resilient ecosystems.\n\nEmail: adiodato@usf.edu\n\nOutside of the Lab\nI love playing DND with friends, doing anything creative with my hands, and watching animated shows and movies. The temperate forests of the Northeast United States and the landscapes of Ireland both have a special place in my heart."
   },
   {
     "objectID": "publications.html",

@@ -14,7 +14,7 @@ When fires swept through the Amazon and Australia, we used the same data pipelin
 
 ## Mapping the species we know least about
 
-Most species are rare, and rare species are the hardest to study and the most likely to need protection. About [36.5% of land plant species are exceedingly rare](https://doi.org/10.1126/sciadv.aaz0414) (*Science Advances*, 2019), and our knowledge of what plants are like is [strongly biased toward wealthy, well-studied regions](https://doi.org/10.1111/nph.18999), a gap we call the Raunkiæran shortfall (*New Phytologist*, 2023). We have also assessed shortfalls in [plant conservation assessments](https://doi.org/10.1002/ppp3.10369). To close these gaps, we develop [species distribution models built for small samples](https://doi.org/10.1002/ecog.08112) (*Ecography*, 2026) and the accompanying S4DM software, so we can map species known from only a handful of records.
+Most species are rare, and rare species are the hardest to study and the most likely to need protection. About [36.5% of land plant species are exceedingly rare](https://doi.org/10.1126/sciadv.aaz0414) (*Science Advances*, 2019), and our knowledge of what plants are like is [strongly biased toward wealthy, well-studied regions](https://doi.org/10.1111/nph.18999), a gap known as the Raunkiæran shortfall (*New Phytologist*, 2023). We have also assessed shortfalls in [plant conservation assessments](https://doi.org/10.1002/ppp3.10369). To close these gaps, we develop [species distribution models built for small samples](https://doi.org/10.1002/ecog.08112) (*Ecography*, 2026) and the accompanying S4DM software, so we can map species known from only a handful of records.
 
 ## Conservation in a changing world
 

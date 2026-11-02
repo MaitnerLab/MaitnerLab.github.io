@@ -17,7 +17,7 @@ You don't need to arrive with every skill. We care most that you are strongly se
 
 ## What we work on
 
-Research in the lab centers on [biodiversity patterns, conservation, and Open Science](index.qmd#research-areas). Work is open to any group of organisms, but it tends to focus on plants. Current and recent topics include:
+Research in the lab centers on [biodiversity patterns, conservation, and Open Science](research.qmd). Work is open to any group of organisms, but it tends to focus on plants. Current and recent topics include:
 
 - Plant functional traits and how they relate to the environment
 - Climate change impacts on biodiversity, including threatened cacti and succulents

@@ -1,0 +1,54 @@
+---
+title: "Research"
+subtitle: "Biodiversity, global change, and open data at USF St. Petersburg"
+description: "The Maitner Lab builds open biodiversity data and tools to forecast climate risks to species, map rare and poorly known species, and understand plant functional traits from plots to the planet."
+---
+
+We ask where life on Earth is, why it is there, and what is about to happen to it. To answer those questions, we build some of the largest open biodiversity datasets and the software needed to use them, and we apply them to global change problems that need answers now, not decades from now.
+
+## Early warnings for biodiversity under climate extremes
+
+Climate change is pushing species into conditions they have never experienced. We map that exposure as it happens and, increasingly, before it happens. With our collaborators, we built a [global early warning system](https://doi.org/10.1038/s41558-026-02642-9) that forecasts, months in advance, where species will face extreme heat (*Nature Climate Change*, 2026). We showed that in 2024, the hottest year on record, [one in six vertebrate species](https://doi.org/10.1073/pnas.2504945122) was exposed to unprecedented heat across more than a quarter of its range (*PNAS*, 2025). We have also found that [high-diversity tree communities face novel climates](https://doi.org/10.1073/pnas.2420059122) even under minimal warming (*PNAS*, 2025), and that [more than 17,000 tree species are at risk from rapid global change](https://doi.org/10.1038/s41467-023-44321-9) (*Nature Communications*, 2024).
+
+When fires swept through the Amazon and Australia, we used the same data pipelines to rapidly quantify the damage to biodiversity, including how [deregulation, drought, and fire impact Amazonian species](https://doi.org/10.1038/s41586-021-03876-7) (*Nature*, 2021) and how [the 2019–2020 megafires affected Australian plant diversity](https://doi.org/10.1111/ddi.13265) (*Diversity and Distributions*, 2021).
+
+## Mapping the species we know least about
+
+Most species are rare, and rare species are the hardest to study and the most likely to need protection. About [36.5% of land plant species are exceedingly rare](https://doi.org/10.1126/sciadv.aaz0414) (*Science Advances*, 2019), and our knowledge of what plants are like is [strongly biased toward wealthy, well-studied regions](https://doi.org/10.1111/nph.18999), a gap we call the Raunkiæran shortfall (*New Phytologist*, 2023). We have also assessed shortfalls in [plant conservation assessments](https://doi.org/10.1002/ppp3.10369). To close these gaps, we develop [species distribution models built for small samples](https://doi.org/10.1002/ecog.08112) (*Ecography*, 2026) and the accompanying S4DM software, so we can map species known from only a handful of records.
+
+## Conservation in a changing world
+
+Knowing how biodiversity is distributed, and how it is changing, is critical for protecting it and its contributions to people. With colleagues, we have studied how climate change may be [threatening cactus species](https://doi.org/10.1038/s41477-022-01130-0), how protected areas can be designed in response to [species range shifts](https://doi.org/10.1111/ecog.05166), and where the [areas of global importance for conserving biodiversity, carbon, and water](https://doi.org/10.1038/s41559-021-01528-7) are (*Nature Ecology & Evolution*, 2021).
+
+## Open biodiversity data and software
+
+Big questions need big, clean, open data. As part of the [Botanical Information and Ecology Network (BIEN)](https://bien.nceas.ucsb.edu/bien/), we help maintain the world's largest database of plant occurrences, and we have shown how this kind of database integration leads to [massive improvements in data availability](https://doi.org/10.1111/geb.13497). Brian leads the [BIEN R package](https://doi.org/10.1111/2041-210x.12861), which gives anyone free access to tens of millions of occurrence records, traits, and range maps. We also build tools that clean and standardize biodiversity data:
+
+- [TNRS](https://cran.r-project.org/package=TNRS) standardizes taxonomic names.
+- [GNRS](https://doi.org/10.1371/journal.pone.0268162) standardizes political division names.
+- [NSR](https://doi.org/10.32614/cran.package.nsr) flags non-native occurrence records.
+- [RMMS](https://doi.org/10.1111/geb.12993) documents species distribution models so they can be reproduced.
+
+We also contribute to modeling tools such as [Wallace 2](https://doi.org/10.1111/ecog.06547). Our code is on [GitHub](https://github.com/MaitnerLab).
+
+## Open Science
+
+Beyond building open tools, we study open science itself. Brian helped found the [Open Traits Network](https://doi.org/10.1038/s41559-020-1109-6) (*Nature Ecology & Evolution*, 2020) and the [Open Nature Initiative](https://www.open-nature.org/). We found that [only 6% of ecology papers share their code](https://doi.org/10.1002/ece3.70030), even though papers that do are cited at a faster rate (*Ecology and Evolution*, 2024), and we have argued that [academic software development needs better incentives](https://doi.org/10.1038/s41559-023-02008-w).
+
+## Functional traits, from plots to the planet
+
+The traits of organisms, such as leaf size, wood density, and body size, link species to how ecosystems function. We showed that [bootstrapping outperforms community-weighted approaches](https://doi.org/10.1111/2041-210x.14160) for estimating the shapes of trait distributions (*Methods in Ecology and Evolution*, 2023), and released the [traitstrap](https://doi.org/10.32614/cran.package.traitstrap) R package to do it. We also advocate for [best practices in trait-based ecology](https://doi.org/10.1111/2041-210X.14033).
+
+Our field work spans four continents, from desert to tundra to tropical forest, including studies of how plant traits track the environment in [China](https://doi.org/10.3389/fpls.2018.01548), [Norway](https://doi.org/10.1002/ecm.1555), and [Peru](https://doi.org/10.1111/geb.12645). Brian co-led international Plant Functional Traits Course expeditions in China, Svalbard, Peru, Norway, and South Africa, each bringing together 25 to 50 participants from more than 10 countries.
+
+## Biological invasions
+
+Why do some introduced species thrive while others fail? Global change drivers like species introductions act as "unplanned experiments" for testing ecological theory. We developed a [framework that considers the communities species come from](https://doi.org/10.1111/ecog.05406), not just where they land. We then showed with [introduced birds in Florida, Hawaii, and New Zealand](https://doi.org/10.1111/ecog.05934) that source-region relationships consistently predict establishment success (*Ecography*, 2022).
+
+## Global patterns of diversity
+
+We use macroecology to explain large-scale patterns. For example, we showed that the [metabolism of warm-blooded predators explains why marine mammals and birds are most diverse in cold seas](https://doi.org/10.1126/science.aat4220) (*Science*, 2019).
+
+## Get involved
+
+For a full list of our papers, preprints, R packages, and datasets, see [Publications](publications.qmd). Want to work on these questions? See [Prospective Students](students.qmd).

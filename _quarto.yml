@@ -23,6 +23,8 @@ website:
     right:
      - text: "Home"
        href: index.html
+     - text: "Research"
+       href: research.qmd
      - text: "People"
        href: people.qmd
      - text: "Publications"

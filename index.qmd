@@ -25,6 +25,7 @@ description: "The Maitner Lab, led by Dr. Brian Maitner at the University of Sou
     "affiliation": "University of South Florida St. Petersburg",
     "url": "https://maitnerlab.github.io/people.html",
     "sameAs": [
+      "https://bmaitner.github.io/",
       "https://scholar.google.com/citations?user=GVb9deIAAAAJ",
       "https://github.com/bmaitner",
       "https://www.researchgate.net/profile/Brian-Maitner",

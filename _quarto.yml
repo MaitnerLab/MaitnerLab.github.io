@@ -56,8 +56,10 @@ website:
 
 format:
   html:
-    theme: [sandstone, custom.scss]
-    css: styles.css
+    theme:
+      light: [flatly, theme/palette-vice.scss, theme/retro.scss]
+      dark: [darkly, theme/palette-synthwave.scss, theme/retro.scss]
+    respect-user-color-scheme: true
     toc: true
     toc-title: Contents
     toc-location: left

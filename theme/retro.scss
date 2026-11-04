@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+// Shared "retro" layer: fonts, layout and effects. A palette file sets the colors.
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Poppins:wght@400;600;700&display=swap');
+$font-family-sans-serif: "Poppins", system-ui, sans-serif !default;
+$headings-font-family: "Orbitron", sans-serif !default;
+$accent-1: #ff2bd6 !default;          // main accent (title glow, rules)
+$accent-2: #29f3ff !default;          // second accent (h2, subtitle)
+$accent-3: #ffd23f !default;          // third accent (h3)
+$hero-bg: linear-gradient(180deg, #2a0b5c, #120b2e) !default;
+$hero-title-color: #fff !default;
+$hero-text-color: #222 !default;
+$nav-bg: #0a0620 !default;
+$glow: 1 !default;                    // 1 = neon glow (dark themes), 0 = flat offset shadows (light themes)
+/*-- scss:rules --*/
+.navbar { background: $nav-bg !important; border-bottom: 2px solid $accent-1; }
+.navbar-brand .navbar-title { font-family: $headings-font-family; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+h1, h2, h3 { font-family: $headings-font-family; letter-spacing: .03em; }
+#title-block-header { padding: 2.75rem 1.75rem; margin-bottom: 2rem; border-radius: 12px; background: $hero-bg; color: $hero-text-color; }
+#title-block-header .description, #title-block-header .subtitle { color: $hero-text-color !important; }
+#title-block-header .subtitle { font-weight: 600; }
+h1.title { font-size: 3.2rem; font-weight: 800; text-transform: uppercase; color: $hero-title-color; }
+h2 { color: $accent-2; border-bottom: 3px solid $accent-1 !important; padding-bottom: .2rem; }
+h3 { color: $accent-3; }
+.figure-img { border-radius: 10px; }
+@if $glow == 1 {
+  .navbar { box-shadow: 0 0 18px rgba($accent-1, .55); }
+  .navbar-brand .navbar-title { color: $accent-2 !important; text-shadow: 0 0 6px $accent-2, 0 0 16px $accent-2; }
+  h1.title { text-shadow: 0 0 4px #fff, 0 0 12px $accent-1, 0 0 28px $accent-1, 0 0 50px $accent-1; }
+  h2 { text-shadow: 0 0 10px rgba($accent-2, .75); }
+  .figure-img { border: 2px solid $accent-1; box-shadow: 0 0 22px rgba($accent-1, .7); }
+} @else {
+  .navbar-brand .navbar-title { color: #fff !important; text-shadow: 2px 2px 0 $accent-1; }
+  h1.title { text-shadow: 3px 3px 0 $accent-1, 6px 6px 0 $accent-2; }
+  .figure-img { border: 6px solid #fff; box-shadow: 8px 8px 0 $accent-1, 16px 16px 0 $accent-2; }
+}

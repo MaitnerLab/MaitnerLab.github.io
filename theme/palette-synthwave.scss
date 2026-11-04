@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+// Synthwave palette (personal site): dark, neon grid
+$body-bg: #120b2e;
+$body-color: #e8e4ff;
+$link-color: #29f3ff;
+$primary: #ff2bd6;
+$headings-color: #ff4fe0;
+$navbar-fg: #29f3ff;
+$navbar-hl: #ff2bd6;
+$footer-bg: #0a0620;
+$border-color: #3b2a7a;
+$table-color: #e8e4ff;
+$accent-1: #ff2bd6;
+$accent-2: #29f3ff;
+$accent-3: #ffd23f;
+$nav-bg: #0a0620;
+$hero-bg: linear-gradient(transparent 60%, rgba(255,43,214,.25)),
+  repeating-linear-gradient(90deg, rgba(41,243,255,.18) 0 1px, transparent 1px 60px),
+  repeating-linear-gradient(0deg, rgba(41,243,255,.18) 0 1px, transparent 1px 40px),
+  linear-gradient(180deg, #2a0b5c, #120b2e);
+$hero-title-color: #ffffff;
+$hero-text-color: #e8e4ff;
+$glow: 1;

@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://maitnerlab.github.io/students.html</loc>
-    <lastmod>2026-11-04T22:46:00.254Z</lastmod>
+    <loc>https://maitnerlab.github.io/research.html</loc>
+    <lastmod>2026-11-07T04:32:15.991Z</lastmod>
   </url>
   <url>
-    <loc>https://maitnerlab.github.io/publications.html</loc>
-    <lastmod>2026-11-04T22:46:00.252Z</lastmod>
+    <loc>https://maitnerlab.github.io/students.html</loc>
+    <lastmod>2026-11-07T04:32:15.992Z</lastmod>
   </url>
   <url>
     <loc>https://maitnerlab.github.io/people.html</loc>
-    <lastmod>2026-11-04T22:46:00.252Z</lastmod>
+    <lastmod>2026-11-07T04:32:15.991Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maitnerlab.github.io/publications.html</loc>
+    <lastmod>2026-11-07T04:32:15.991Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maitnerlab.github.io/software.html</loc>
+    <lastmod>2026-11-07T04:32:15.992Z</lastmod>
   </url>
   <url>
     <loc>https://maitnerlab.github.io/index.html</loc>
-    <lastmod>2026-11-04T22:46:00.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://maitnerlab.github.io/research.html</loc>
-    <lastmod>2026-11-04T22:46:00.252Z</lastmod>
+    <lastmod>2026-11-07T04:32:15.988Z</lastmod>
   </url>
 </urlset>

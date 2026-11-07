@@ -79,6 +79,13 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<!-- Favicons: dark set by default; theme/favicon-swap.html swaps in the light set to match the page theme. -->
+<link rel="icon" href="./favicon.ico" sizes="48x48">
+<link rel="icon" class="theme-icon" type="image/png" sizes="32x32" href="./assets/favicons/favicon-32x32.png" data-dark="/assets/favicons/favicon-32x32.png" data-light="/assets/favicons/favicon-light-32x32.png">
+<link rel="icon" class="theme-icon" type="image/png" sizes="16x16" href="./assets/favicons/favicon-16x16.png" data-dark="/assets/favicons/favicon-16x16.png" data-light="/assets/favicons/favicon-light-16x16.png">
+<link rel="apple-touch-icon" href="./assets/favicons/apple-touch-icon.png">
+<meta name="theme-color" content="#120b2e" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#00b3b3" media="(prefers-color-scheme: light)">
 <meta name="google-site-verification" content="49U9XnGDTDWPDZljcot6RRjzQWgEOhkQOBvY-zBEShA">
 
 
@@ -427,6 +434,22 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<script>
+  /* Match the tab icon to the page theme. Quarto marks dark mode with body.quarto-dark,
+     both on load and when the navbar toggle is used, so watch that class. */
+  (function () {
+    var icons = document.querySelectorAll("link.theme-icon");
+    function sync() {
+      var mode = document.body.classList.contains("quarto-dark") ? "dark" : "light";
+      for (var i = 0; i < icons.length; i++) {
+        var href = icons[i].getAttribute("data-" + mode);
+        if (href && icons[i].getAttribute("href") !== href) icons[i].setAttribute("href", href);
+      }
+    }
+    sync();
+    new MutationObserver(sync).observe(document.body, { attributes: true, attributeFilter: ["class"] });
+  })();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

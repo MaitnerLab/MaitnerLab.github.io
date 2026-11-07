@@ -1,0 +1,16 @@
+<script>
+  /* Match the tab icon to the page theme. Quarto marks dark mode with body.quarto-dark,
+     both on load and when the navbar toggle is used, so watch that class. */
+  (function () {
+    var icons = document.querySelectorAll("link.theme-icon");
+    function sync() {
+      var mode = document.body.classList.contains("quarto-dark") ? "dark" : "light";
+      for (var i = 0; i < icons.length; i++) {
+        var href = icons[i].getAttribute("data-" + mode);
+        if (href && icons[i].getAttribute("href") !== href) icons[i].setAttribute("href", href);
+      }
+    }
+    sync();
+    new MutationObserver(sync).observe(document.body, { attributes: true, attributeFilter: ["class"] });
+  })();
+</script>

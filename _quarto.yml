@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - favicon.ico
+    - assets/favicons/*.png
 
 website:
   title: "Maitner Lab"
@@ -68,4 +71,6 @@ format:
     lang: en
     canonical-url: true
     include-in-header:
-      text: '<meta name="google-site-verification" content="49U9XnGDTDWPDZljcot6RRjzQWgEOhkQOBvY-zBEShA" />'
+      - text: '<meta name="google-site-verification" content="49U9XnGDTDWPDZljcot6RRjzQWgEOhkQOBvY-zBEShA" />'
+      - file: theme/favicon-head.html
+    include-after-body: theme/favicon-swap.html

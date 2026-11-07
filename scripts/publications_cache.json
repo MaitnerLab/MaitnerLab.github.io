@@ -20440,6 +20440,108 @@
    "NSR: 'Native Status Resolver'"
   ]
  },
+ "10.32614/cran.package.openrange": {
+  "author": [
+   {
+    "family": "Maitner",
+    "given": "Brian"
+   },
+   {
+    "family": "Merow",
+    "given": "Cory"
+   },
+   {
+    "family": "Boyle",
+    "given": "Brad"
+   },
+   {
+    "family": "Feng",
+    "given": "Xiao"
+   },
+   {
+    "family": "Babu",
+    "given": "Rethvick Sriram Yugendra"
+   },
+   {
+    "family": "Enquist",
+    "given": "Brian"
+   }
+  ],
+  "container-title": [
+   "CRAN: Contributed Packages"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     1,
+     14
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     1,
+     14
+    ]
+   ]
+  },
+  "publisher": "The R Foundation",
+  "title": [
+   "OpenRange: Code to Access Open Access Species Range Maps"
+  ]
+ },
+ "10.32614/cran.package.s4dm": {
+  "author": [
+   {
+    "family": "Maitner",
+    "given": "Brian S."
+   },
+   {
+    "family": "Richards",
+    "given": "Robert L."
+   },
+   {
+    "family": "Carlson",
+    "given": "Ben S."
+   },
+   {
+    "family": "Drake",
+    "given": "John M."
+   },
+   {
+    "family": "Merow",
+    "given": "Cory"
+   }
+  ],
+  "container-title": [
+   "CRAN: Contributed Packages"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     1,
+     10
+    ]
+   ]
+  },
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     1,
+     10
+    ]
+   ]
+  },
+  "publisher": "The R Foundation",
+  "title": [
+   "S4DM: Small Sample Size Species Distribution Modeling"
+  ]
+ },
  "10.32614/cran.package.tnrs": {
   "author": [
    {
@@ -20633,6 +20735,73 @@
   "title": [
    "The commonness of rarity: Global and future distribution of rarity across land plants"
   ]
+ },
+ "10.3334/ornldaac/2536": {
+  "author": [
+   {
+    "family": "Wilson",
+    "given": "A.M."
+   },
+   {
+    "family": "Slingsby",
+    "given": "J.A."
+   },
+   {
+    "family": "Turner",
+    "given": "R."
+   },
+   {
+    "family": "Euston-Brown",
+    "given": "D."
+   },
+   {
+    "family": "Nicolson",
+    "given": "G."
+   },
+   {
+    "family": "Molteno",
+    "given": "S."
+   },
+   {
+    "family": "Hall",
+    "given": "S."
+   },
+   {
+    "family": "Emms",
+    "given": "P."
+   },
+   {
+    "family": "Frye",
+    "given": "H.A."
+   },
+   {
+    "family": "Townsend",
+    "given": "P.A."
+   },
+   {
+    "family": "Cardoso",
+    "given": "A.W."
+   },
+   {
+    "family": "Hestir",
+    "given": "E.L."
+   },
+   {
+    "family": "Maitner",
+    "given": "B."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     1,
+     1
+    ]
+   ]
+  },
+  "publisher": "ORNL Distributed Active Archive Center",
+  "title": "BioSCape Vegetation Plots, Cape Floristic Region, South Africa, 2023"
  },
  "10.3389/fevo.2018.00219": {
   "author": [
@@ -21128,6 +21297,69 @@
   },
   "publisher": "FRB-CESAB",
   "title": "Causes and consequences of functional rarity from local to global scales"
+ },
+ "10.5281/zenodo.23734114": {
+  "author": [
+   {
+    "family": "Brian Maitner"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     28
+    ]
+   ]
+  },
+  "publisher": "Zenodo",
+  "title": "bmaitner/glyospalettes: glyospalettes 0.3.0"
+ },
+ "10.5281/zenodo.23734133": {
+  "author": [
+   {
+    "family": "Brian Maitner"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     28
+    ]
+   ]
+  },
+  "publisher": "Zenodo",
+  "title": "bmaitner/transformerpalettes: transformerpalettes 0.4.0"
+ },
+ "10.5281/zenodo.7272295": {
+  "author": [
+   {
+    "family": "Adam M. Wilson"
+   },
+   {
+    "family": "Brian Maitner"
+   },
+   {
+    "family": "Jiyeon Kim"
+   },
+   {
+    "family": "Jasper Slingsby"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     17
+    ]
+   ]
+  },
+  "publisher": "Zenodo",
+  "title": "eco-emma/emma_envdata: Dynamic VIIRS Vegetation Index"
  },
  "10.60692/dvwde-qvj29": {
   "author": [

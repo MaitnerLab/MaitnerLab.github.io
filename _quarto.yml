@@ -29,6 +29,8 @@ website:
        href: people.qmd
      - text: "Publications"
        href: publications.qmd
+     - text: "Software"
+       href: software.qmd
      - text: "Prospective Students"
        href: students.qmd
      - icon: github

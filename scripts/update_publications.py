@@ -113,7 +113,15 @@ def md_escape(text):
     return re.sub(r"([*_\[\]`<>])", r"\\\1", text)
 
 
+def full_name_only(a):
+    """DataCite (e.g., Zenodo) sometimes puts a whole name like "Brian Maitner" in `family`."""
+    return "given" not in a and " " in a.get("family", "")
+
+
 def is_lab_member(a):
+    if full_name_only(a):
+        *given, family = a["family"].split()
+        a = {"family": family, "given": " ".join(given)}
     if "family" in a:
         return any(a["family"] == fam and a.get("given", "").startswith(ini) for fam, ini in LAB_MEMBERS)
     full = a.get("literal") or a.get("name") or ""
@@ -121,6 +129,9 @@ def is_lab_member(a):
 
 
 def fmt_author(a):
+    if full_name_only(a):  # split "Adam M. Wilson" into given/family so it formats as "Wilson AM"
+        *given, family = a["family"].split()
+        a = {"family": family, "given": " ".join(given)}
     if "family" not in a:
         name = md_escape(a.get("literal") or a.get("name") or "")
         return f"**{name}**" if is_lab_member(a) else name
@@ -141,7 +152,9 @@ def fmt_authors(authors):
 
 
 def fmt_entry(w, c):
-    title = md_escape(first(c.get("title")) or w["title"]).rstrip(".")
+    title = first(c.get("title")) or w["title"]
+    title = re.sub(r"^[\w.-]+/[\w.-]+: ", "", title)  # GitHub-release style "owner/repo: title"
+    title = md_escape(title).rstrip(".")
     authors = fmt_authors(c.get("author", []))
     server = PREPRINT_SERVERS.get(w["doi"].split("/")[0]) if w["kind"] == "preprint" else None
     container = md_escape(server or first(c.get("container-title")) or c.get("publisher", ""))
@@ -228,11 +241,15 @@ def main():
             year = w["year"]
             lines += [f"### {year or 'Undated'}", ""]
         lines += [f"- {fmt_entry(w, details[w['doi']])}", ""]
+    notes = {"Software (R packages)": "Citable releases with DOIs. See [Software](software.qmd) "
+                                      "for all of our R packages."}
     for heading, ws in (("Preprints and reports", preprints),
                         ("Software (R packages)", software),
                         ("Datasets", datasets)):
         if ws:
             lines += [f"## {heading}", ""]
+            if heading in notes:
+                lines += [notes[heading], ""]
             lines += [line for w in ws for line in (f"- {fmt_entry(w, details[w['doi']])}", "")]
 
     with open(OUTPUT, "w", encoding="utf-8", newline="\n") as f:

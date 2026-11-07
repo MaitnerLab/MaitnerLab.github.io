@@ -51,4 +51,4 @@ We use macroecology to explain large-scale patterns. For example, we showed that
 
 ## Get involved
 
-For a full list of our papers, preprints, R packages, and datasets, see [Publications](publications.qmd). Want to work on these questions? See [Prospective Students](students.qmd).
+For a full list of our papers, preprints, and datasets, see [Publications](publications.qmd); for our R packages, see [Software](software.qmd). Want to work on these questions? See [Prospective Students](students.qmd).

@@ -3,9 +3,12 @@ title: "Cacti and severe drought, in *Nature*"
 date: 2026-11-11
 description: "Postdoc Mich Pillet's new study in Nature finds that accounting for severe drought sharply increases projected losses for cacti, with coverage from a Nature Research Briefing and the Nature Podcast."
 categories: [publication, media coverage]
+image: images/key-tree-cactus-pillet.jpg
 ---
 
-A new study led by lab postdoc [Mich Pillet](../people.qmd#michiel-mich-pillet), with Brian Maitner and colleagues, is out today in *Nature*: [Severe drought and warming increase the extinction risk of cacti](https://doi.org/10.1038/s41586-026-11265-1).
+A new study led by lab postdoc [Mich Pillet](../people.qmd#michiel-mich-pillet), with Brian Maitner and colleagues, is now out in *Nature*: [Severe drought and warming increase the extinction risk of cacti](https://doi.org/10.1038/s41586-026-11265-1).
+
+![Key tree cactus (*Pilosocereus robinii*) in the Florida Keys, Florida. Photo © Michiel Pillet.](images/key-tree-cactus-pillet.jpg){fig-alt="Tall columnar Key tree cactus growing among trees in a Florida Keys hammock" width=70% fig-align="center"}
 
 Most forecasts of how species will fare under climate change rely on long-term climate averages and leave out extreme events. Cacti are often seen as drought tolerant, but at least 30% of species are already at risk of extinction. The team combined new global data on future severe droughts with nearly 650,000 cactus occurrence records to model 993 cactus species. Models that included severe drought were better supported in 91% of cases, and they changed the picture considerably:
 
@@ -14,6 +17,8 @@ Most forecasts of how species will fare under climate change rely on long-term c
 - If species cannot disperse to new areas, 84–85% are projected to lose suitable area.
 
 The results show that leaving out climate extremes can understate how vulnerable biodiversity is to climate change.
+
+![Projected relative change in cactus species richness across the Americas; values below 1 (brown) mean fewer species. Map from Pillet et al. (2026), *Nature*.](images/cactus-richness-change-map.jpg){fig-alt="Map of the Americas colored by projected relative change in cactus species richness, with losses in brown and gains in blue, and an inset photo of a dry, rocky landscape" fig-align="center"}
 
 **Coverage**
 

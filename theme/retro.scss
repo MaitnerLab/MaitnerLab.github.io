@@ -31,5 +31,5 @@ h3 { color: $accent-3; }
 } @else {
   .navbar-brand .navbar-title { color: #fff !important; text-shadow: 2px 2px 0 $accent-1; }
   h1.title { text-shadow: 3px 3px 0 $accent-1, 6px 6px 0 $accent-2; }
-  .figure-img { border: 6px solid #fff; box-shadow: 8px 8px 0 $accent-1, 16px 16px 0 $accent-2; }
+  .figure-img { border: 6px solid #fff; box-shadow: 8px 8px 0 $accent-1, 16px 16px 0 $accent-2; margin-bottom: 20px; } // room so the offset shadow clears the caption
 }

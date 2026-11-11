@@ -1,0 +1,13 @@
+---
+title: "News"
+description: "News from the Maitner Lab at USF St. Petersburg: new papers, media coverage, and lab happenings."
+listing:
+  contents: news
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+  fields: [date, title, description, categories]
+  date-format: "MMMM D, YYYY"
+toc: false
+---

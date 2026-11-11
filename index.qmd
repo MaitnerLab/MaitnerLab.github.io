@@ -3,6 +3,16 @@ title: "Maitner Lab"
 subtitle: "Biodiversity and global change ecology at the University of South Florida – St. Petersburg"
 pagetitle: "Biodiversity & Global Change Ecology at USF St. Petersburg"
 description: "The Maitner Lab, led by Dr. Brian Maitner at the University of South Florida – St. Petersburg, studies biodiversity patterns, plant traits, conservation, and Open Science. Now recruiting graduate students."
+listing:
+  id: latest-news
+  contents: news
+  sort: "date desc"
+  type: table
+  max-items: 3
+  fields: [date, title]
+  date-format: "MMM D, YYYY"
+  sort-ui: false
+  filter-ui: false
 ---
 
 ```{=html}
@@ -53,6 +63,13 @@ We ask where life on Earth is, why it is there, and what is about to happen to i
 - **[Biological invasions](research.qmd#biological-invasions)** and **[global patterns of diversity](research.qmd#global-patterns-of-diversity)**: why some introduced species succeed, and what drives large-scale diversity patterns.
 
 See [Research](research.qmd) for details and key papers, [Publications](publications.qmd) for a full list of our papers, preprints, and datasets, or [Software](software.qmd) for our R packages.
+
+## Latest news
+
+::: {#latest-news}
+:::
+
+See all [News](news.qmd).
 
 ## Join the lab!
 We're currently looking for graduate students to join the lab. Students should be strongly self-motivated and full of ideas they're interested in! In particular, we're looking for students that have an interest in either (or both) of the following approaches: 1) using data wrangling and coding to address large-scale questions, or 2) using field-based methods to address ecological or global-change questions. See the [Prospective Students](students.qmd) page for details on how to apply, or email Brian if you're interested.

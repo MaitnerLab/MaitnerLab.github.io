@@ -8911,6 +8911,110 @@
   ],
   "volume": "624"
  },
+ "10.1038/s41586-026-11265-1": {
+  "author": [
+   {
+    "family": "Pillet",
+    "given": "Michiel D."
+   },
+   {
+    "family": "Maitner",
+    "given": "Brian S."
+   },
+   {
+    "family": "Arakaki",
+    "given": "M\u00f3nica"
+   },
+   {
+    "family": "Araujo",
+    "given": "Diogo S. A."
+   },
+   {
+    "family": "Baker",
+    "given": "Marc A."
+   },
+   {
+    "family": "Barrios",
+    "given": "Duniel"
+   },
+   {
+    "family": "Boyle",
+    "given": "Bradley L."
+   },
+   {
+    "family": "Breshears",
+    "given": "David D."
+   },
+   {
+    "family": "Feng",
+    "given": "Xiao"
+   },
+   {
+    "family": "Goettsch",
+    "given": "B\u00e1rbara"
+   },
+   {
+    "family": "Guerrero",
+    "given": "Pablo C."
+   },
+   {
+    "family": "Hern\u00e1ndez-Hern\u00e1ndez",
+    "given": "Tania"
+   },
+   {
+    "family": "Majure",
+    "given": "Lucas C."
+   },
+   {
+    "family": "Meri\u00f1o",
+    "given": "Beatriz M."
+   },
+   {
+    "family": "Nikolopoulos",
+    "given": "Efthymios I."
+   },
+   {
+    "family": "Puente-Mart\u00ednez",
+    "given": "Ra\u00fal"
+   },
+   {
+    "family": "Roehrdanz",
+    "given": "Patrick R."
+   },
+   {
+    "family": "Serra-Diaz",
+    "given": "Josep M."
+   },
+   {
+    "family": "Urban",
+    "given": "Mark C."
+   },
+   {
+    "family": "Merow",
+    "given": "Cory"
+   },
+   {
+    "family": "Enquist",
+    "given": "Brian J."
+   }
+  ],
+  "container-title": [
+   "Nature"
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     11
+    ]
+   ]
+  },
+  "publisher": "Springer Science and Business Media LLC",
+  "title": [
+   "Severe drought and warming increase the extinction risk of cacti"
+  ]
+ },
  "10.1038/s41597-020-0529-0": {
   "author": [
    {
@@ -20736,6 +20840,76 @@
    "The commonness of rarity: Global and future distribution of rarity across land plants"
   ]
  },
+ "10.32942/x2x37p": {
+  "author": [
+   {
+    "family": "Gauzere",
+    "given": "Pierre"
+   },
+   {
+    "family": "Mahaut",
+    "given": "Lucie"
+   },
+   {
+    "family": "Denelle",
+    "given": "pierre"
+   },
+   {
+    "family": "Mouillot",
+    "given": "David"
+   },
+   {
+    "family": "Greni\u00e9",
+    "given": "Matthias"
+   },
+   {
+    "family": "Renaud",
+    "given": "Julien"
+   },
+   {
+    "family": "Mouquet",
+    "given": "Nicolas"
+   },
+   {
+    "family": "Loiseau",
+    "given": "Nicolas"
+   },
+   {
+    "family": "Maitner",
+    "given": "Brian"
+   },
+   {
+    "family": "Maire",
+    "given": "Anthony"
+   },
+   {
+    "family": "Toussaint",
+    "given": "Aur\u00e8le"
+   },
+   {
+    "family": "Thuiller",
+    "given": "Wilfried"
+   },
+   {
+    "family": "Violle",
+    "given": "Cyrille"
+   }
+  ],
+  "container-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     3,
+     25
+    ]
+   ]
+  },
+  "publisher": "California Digital Library (CDL)",
+  "title": [
+   "Scale dependence of avian functional rarity reveals mismatches between global and local conservation priorities"
+  ]
+ },
  "10.3334/ornldaac/2536": {
   "author": [
    {
@@ -21333,6 +21507,57 @@
   },
   "publisher": "Zenodo",
   "title": "bmaitner/transformerpalettes: transformerpalettes 0.4.0"
+ },
+ "10.5281/zenodo.24098639": {
+  "author": [
+   {
+    "family": "Serra-Diaz",
+    "given": "Josep M."
+   },
+   {
+    "family": "Andrews",
+    "given": "Lauren C."
+   },
+   {
+    "family": "Pillet",
+    "given": "Michiel D."
+   },
+   {
+    "family": "Wilson",
+    "given": "Adam M."
+   },
+   {
+    "family": "Schwarz Meyer",
+    "given": "Andreas"
+   },
+   {
+    "family": "Trisos",
+    "given": "Christopher H."
+   },
+   {
+    "family": "Maitner",
+    "given": "Brian"
+   },
+   {
+    "family": "Urban",
+    "given": "Mark C."
+   },
+   {
+    "family": "Merow",
+    "given": "Cory"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     10
+    ]
+   ]
+  },
+  "publisher": "Zenodo",
+  "title": "Dataset from A prediction of the global vertebrate biodiversity exposure to extreme heat under the expected 2026\u201327 El Ni\u00f1o"
  },
  "10.5281/zenodo.7272295": {
   "author": [

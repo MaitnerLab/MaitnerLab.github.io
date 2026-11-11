@@ -37,6 +37,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
@@ -79,6 +81,29 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-latest-news .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-latest-news'] = new List('listing-latest-news', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+  </script>
 <!-- Favicons: dark set by default; theme/favicon-swap.html swaps in the light set to match the page theme. -->
 <link rel="icon" href="./favicon.ico" sizes="48x48">
 <link rel="icon" class="theme-icon" type="image/png" sizes="32x32" href="./assets/favicons/favicon-32x32.png" data-dark="/assets/favicons/favicon-32x32.png" data-light="/assets/favicons/favicon-light-32x32.png">
@@ -88,6 +113,35 @@ ul.task-list li input[type="checkbox"] {
 <meta name="theme-color" content="#00b3b3" media="(prefers-color-scheme: light)">
 <meta name="google-site-verification" content="49U9XnGDTDWPDZljcot6RRjzQWgEOhkQOBvY-zBEShA">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <meta property="og:title" content="Biodiversity &amp; Global Change Ecology at USF St.&nbsp;Petersburg">
 <meta property="og:description" content="The Maitner Lab, led by Dr.&nbsp;Brian Maitner at the University of South Florida – St.&nbsp;Petersburg, studies biodiversity patterns, plant traits, conservation, and Open Science. Now recruiting graduate students.">
@@ -321,6 +375,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./news.html"> 
+<span class="menu-text">News</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./students.html"> 
 <span class="menu-text">Prospective Students</span></a>
   </li>  
@@ -348,6 +406,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
   <li><a href="#research-areas" id="toc-research-areas" class="nav-link" data-scroll-target="#research-areas">Research Areas</a></li>
+  <li><a href="#latest-news" id="toc-latest-news" class="nav-link" data-scroll-target="#latest-news">Latest news</a></li>
   <li><a href="#join-the-lab" id="toc-join-the-lab" class="nav-link" data-scroll-target="#join-the-lab">Join the lab!</a></li>
   </ul>
 </nav>
@@ -433,9 +492,45 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>See <a href="./research.html">Research</a> for details and key papers, <a href="./publications.html">Publications</a> for a full list of our papers, preprints, and datasets, or <a href="./software.html">Software</a> for our R packages.</p>
 </section>
+<section id="latest-news" class="level2">
+<h2 class="anchored" data-anchor-id="latest-news">Latest news</h2>
+<div id="listing-latest-news" class="quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+Date
+</th>
+
+<th>
+Title
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-categories="cHVibGljYXRpb24lMkNtZWRpYSUyMGNvdmVyYWdl" data-listing-date-sort="1794355200000" data-listing-file-modified-sort="1794418909184" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="189" data-listing-title-sort="Cacti and severe drought, in *Nature*" data-listing-filename-sort="2026-11-11-cacti-drought-nature.qmd">
+<td>
+<span class="listing-date">Nov 11, 2026</span>
+</td>
+<td>
+<a href="./news/2026-11-11-cacti-drought-nature.html" class="title listing-title">Cacti and severe drought, in <em>Nature</em></a>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<p>See all <a href="./news.html">News</a>.</p>
+</section>
 <section id="join-the-lab" class="level2">
 <h2 class="anchored" data-anchor-id="join-the-lab">Join the lab!</h2>
 <p>We’re currently looking for graduate students to join the lab. Students should be strongly self-motivated and full of ideas they’re interested in! In particular, we’re looking for students that have an interest in either (or both) of the following approaches: 1) using data wrangling and coding to address large-scale questions, or 2) using field-based methods to address ecological or global-change questions. See the <a href="./students.html">Prospective Students</a> page for details on how to apply, or email Brian if you’re interested.</p>
+
 
 
 </section>

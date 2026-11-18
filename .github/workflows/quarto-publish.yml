@@ -14,8 +14,9 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          # To install LaTeX to build PDF book 
-          tinytex: true 
+          # LaTeX (tinytex) is only needed for PDF output, which this site doesn't build.
+          # Installing it also fails whenever GitHub rate-limits the download.
+          tinytex: false
           # uncomment below and fill to pin a version
           # version: 0.9.600
       
